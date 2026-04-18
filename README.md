@@ -6,6 +6,8 @@ create a .env
 
 
 IGDB_CLIENT_ID=
+
+
 IGDB_CLIENT_SECRET=
 
 put the data in 
