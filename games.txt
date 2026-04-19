@@ -1,4 +1,4 @@
-count: 28
+count: 31
 
 #Fighter Solo/Multi
 125764, Guilty Gear Strive
@@ -67,5 +67,8 @@ count: 28
 
 #Action RPG
 347636, Code Vein
+279661, Monster Hunter Wilds
+115846, AI Limit
+250922, Rune Factory: Guardians of Azuma
 
 #you can also add notes to format genre
