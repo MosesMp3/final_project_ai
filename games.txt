@@ -10,6 +10,9 @@
 239392, Mortal Kombat 1
 90101, Super Smash Bros. Ultimate
 11613, BlazBlue: Central Fiction
+2066, Ultimate Marvel vs. Capcom 3
+11445, Persona 4 Arena Ultimax
+4759, Divekick
 
 #Shooter Looter
 314246, Borderlands 4
@@ -18,7 +21,7 @@
 25657, Destiny 2
 252485, John Carpenter’s Toxic Commando
 316979, Deadzone Rogue
-139672, ,Revita
+139672, Revita
 204444, Glitch Busters
 266177, Cave Digger 2
 7878, Unturned
@@ -89,7 +92,7 @@
 124701, Legends of Runeterra
 26845, Fire Emblem: Three Houses
 
-#TBS (Turn Based Strategy) + Exploration
+#TBS (Turn-Based Strategy) + Exploration
 7615, Might & Magic Heroes VII
 164287, Erannorth Chronicles
 119171, Baldur's Gate 3
@@ -120,6 +123,9 @@
 132185, Punishing Gray Raven
 188383, Reverse 1999
 200551, Zenless Zone Zero
+97494, Umamusume: Pretty Derby
+178282, Honkai: Star Rail
+96032, Honkai Impact 3rd
 
 #Battle-Royale
 207939, Naraka Bladepoint
@@ -148,6 +154,8 @@
 327405, Megabonk
 199116, Brotato
 217311, For the King II
+251833, Balatro
+8042, Mewgenics
 
 #Co-op // Party-Style
 135915, Overcooked! All You Can Eat
@@ -165,7 +173,7 @@
 347646, LEGO Voyagers
 387070, Super Battle Golf
 105322, Pummel Party
-
+119313, Fall Guys
 
 #Survival Horror
 132181, Resident Evil 4
@@ -173,11 +181,17 @@
 8499, Five Nights at Freddy’s
 131931, Dead Space
 9254, Subnautica
-
+19320, Five Nights at Freddy’s: Sister Location
+190361, Iron Lung
+176057, Poppy Playtime
+4754, Alien: Isolation
+19531, Prey
+1882, Amnesia: A Machine for Pigs
+3042, Dying Light
+222341, Silent Hill 2
 
 #Survival Horror Multiplayer
 339698, Dead By Daylight
-222341, Silent Hill 2
 132516, Phasmophobia
 127165, The Outlast Trials
 127346, Sons of the Forest
@@ -219,6 +233,7 @@
 337031, Rhythm Heaven Groove
 7886, Crypt of the NecroDancer
 104992, Taiko no Tatsujin: Drum 'n' Fun!
+202864, Hatsune Miku: Project Diva Mega Mix
 
 
 #Racing
@@ -258,6 +273,8 @@
 #Indie
 91477, Before Your Eyes
 224262, Fear & Hunger 2: Termina
+12517, Undertale
+203722, Dave the Diver
 
 #Survival
 3277, Rust
@@ -283,13 +300,39 @@
 25076, Red Dead Redemption 2
 119133, Elden Ring
 1020, Grand Theft Auto V
+31551, Final Fantasy XVI
+2136, Bayonetta
+2135, Bayonetta 2
+76888, Bayonetta 3
+11397, Yakuza 0
+2155, Dark Souls
+2368, Dark Souls II
+11133, Dark Souls III
+7334, Bloodborne
+148241, Lies of P
+12571, Nioh
+103330, Nioh 2
+136879, Black Myth: Wukong
+20744, Okami HD
+1009, The Last of Us
+
+#Visual Novel
+9607, Clannad
+7194, Steins;Gate
+309582, Doki Doki Literature Club
 
 #Hack and slash/Beat 'em up
 279661, Monster Hunter Wilds
 144022, Sifu
 75235, Ghost of Tsushima
 
-
+#Platform
+303811, Astro Bot
+134585, Sackboy: A Big Adventure
+26758, Super Mario Odyssey
+2184, Kirby’s Epic Yarn
+26226, Celeste
+37135, Yoshi's Crafted World
 
 #Sports
 353848, EA Sports FC 26
@@ -305,11 +348,39 @@
 
 #Puzzle
 324927, The Talos Principle: Reawakened
+3751, Peggle
 
 #Metroidvania
 14593, Hollow Knight
 26820, Blasphemous
+121295, Grime
+1105, Metroid Prime
+138213, There Is No Light
+1128, Castlevania: Symphony of the Night
+115289, Hollow Knight: Silksong
+6189, Cave Story
+165390, Blasphemous II
 
+
+#Mobile Games
+5589, Clash of Clans
+15707, Clash Royale
+57759, Leap Day
+19902, Bad Piggies
+9761, Cut the Rope
+2475, Temple Run
+39188, Despicable Me: Minion Rush
+13460, Where’s My Water?
+55945, Brawl Stars
+8978, Jetpack Joyride
+5636, Candy Crush Saga
+12515, Pokémon Go
+38946, Dan the Man
+122346, Soul Knight
+6166, Subway Surfers
+59746, The Battle Cats
 #you can also add notes to format genre
+
+
 
 
