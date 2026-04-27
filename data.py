@@ -48,6 +48,21 @@ def pull_games_by_id(game_ids, headers):
     resp = requests.post("https://api.igdb.com/v4/games", headers=headers, data=body)
     return resp.json()
 
+def pull_games_bulk(headers, limit=500, offset=0):
+    fields = (
+        "id,name,genres,themes,game_modes,player_perspectives,"
+        "platforms,keywords,summary,storyline,first_release_date,"
+        "total_rating,total_rating_count,similar_games,category"
+    )
+    body = (
+        f"fields {fields}; "
+        f"limit {limit}; "
+        f"offset {offset}; "
+        f"sort total_rating_count desc; "
+        f"where total_rating_count > 50 & genres != null & platforms != null;"
+    )
+    resp = requests.post("https://api.igdb.com/v4/games", headers=headers, data=body)
+    return resp.json()
 
 ids = []
 with open("games.txt") as f:
@@ -62,9 +77,24 @@ with open("games.txt") as f:
 game_data = pull_games_by_id(ids, headers)
 print(game_data)
 
+bulk_games = []
+for offset in range(0, 5000, 500):
+    batch = pull_games_bulk(headers, limit=500, offset=offset)
+    if not batch:
+        break
+    bulk_games.extend(batch)
+    time.sleep(0.25)
+
+all_ids_seen = set()
+combined = []
+for game in game_data + bulk_games:
+    if game["id"] not in all_ids_seen:
+        all_ids_seen.add(game["id"])
+        combined.append(game)
+
 os.makedirs("cache", exist_ok=True)
 with open("cache/games_raw.json", "w") as f:
-    json.dump(game_data, f, indent=2)
+    json.dump(combined, f, indent=2)
 
 print("SAVED")
 
