@@ -1,11 +1,18 @@
 import json
+import os
+from datetime import datetime
 
-with open("cache/games_raw.json") as f:
-    games_raw = json.load(f)
+import numpy as np
 
-with open("cache/lookups.json") as d:
-    lookups = json.load(d)
-print(len(games_raw))
+
+def load_games(path="cache/games_raw.json"):
+    with open(path) as f:
+        return json.load(f)
+
+
+def load_lookups(path="cache/lookups.json"):
+    with open(path) as f:
+        return json.load(f)
 
 
 def build_positions(games, field_name):
@@ -13,46 +20,72 @@ def build_positions(games, field_name):
     for game in games:
         for id_ in game.get(field_name) or []:
             unique_ids.add(id_)
-    sorted_ids = sorted(unique_ids)
-    return {id_: i for i, id_ in enumerate(sorted_ids)}
+    return {id_: i for i, id_ in enumerate(sorted(unique_ids))}
 
 
-def encode_field(game_field_values, vocab_positions):
+def build_all_positions(games, fields):
+    return {field: build_positions(games, field) for field in fields}
+
+
+def encode_field(values, vocab_positions):
     vec = [0] * len(vocab_positions)
-    for val in game_field_values or []:
+    for val in values or []:
         if val in vocab_positions:
             vec[vocab_positions[val]] = 1
     return vec
 
 
-fields = ["genres", "themes", "game_modes", "player_perspectives", "platforms"]
-positions = {field: build_positions(games_raw, field) for field in fields}
-
-
-for field, pos in positions.items():
-    print(f"{field}: {len(pos)} unique values")
-
-
-def encode_game(game, positions):
-    """Encode one game's categorical fields into a single concatenated vector."""
+def encode_categorical(game, positions, fields):
     parts = []
-    for field in ["genres", "themes", "game_modes", "player_perspectives", "platforms"]:
+    for field in fields:
         parts.append(encode_field(game.get(field), positions[field]))
-    return sum(parts, [])  # flatten list of lists
+    return sum(parts, [])
 
 
-"""
-for game in games_raw:
-    encoded = encode_game(game, positions)
-    print(f"Feature length: {len(encoded)}")
-    print(f"Active features: {sum(encoded)}")
-    print(encoded)
-
-"""
+def encode_scalars(game):
+    rating = (game.get("total_rating") or 0) / 100.0
+    ts = game.get("first_release_date")
+    year = datetime.fromtimestamp(ts).year if ts else 2000
+    year_norm = (max(1980, min(2026, year)) - 1980) / 46.0
+    return [rating, year_norm]
 
 
-encoded = encode_game(games_raw[1], positions)
-print(f"name:{games_raw[1].get('name')}")
-print(f"Feature length: {len(encoded)}")
-print(f"Active features: {sum(encoded)}")
-print(encoded)
+def encode_game(game, positions, fields):
+    return encode_categorical(game, positions, fields) + encode_scalars(game)
+
+
+def build_feature_matrix(games, positions, fields):
+    matrix = np.array(
+        [encode_game(g, positions, fields) for g in games],
+        dtype=np.float32,
+    )
+    ids = np.array([g["id"] for g in games], dtype=np.int64)
+    names = np.array([g["name"] for g in games])
+    return matrix, ids, names
+
+
+def extract_similar_truth(games):
+    return {g["id"]: (g.get("similar_games") or []) for g in games}
+
+
+def save_outputs(matrix, ids, names, similar_truth, out_dir="cache"):
+    os.makedirs(out_dir, exist_ok=True)
+    np.savez(
+        f"{out_dir}/features.npz",
+        feature_matrix=matrix,
+        game_ids=ids,
+        game_names=names,
+    )
+    with open(f"{out_dir}/similar_truth.json", "w") as f:
+        json.dump({str(k): v for k, v in similar_truth.items()}, f)
+
+
+FIELDS = ["genres", "themes", "game_modes", "player_perspectives", "platforms"]
+
+games = load_games()
+positions = build_all_positions(games, FIELDS)
+matrix, ids, names = build_feature_matrix(games, positions, FIELDS)
+truth = extract_similar_truth(games)
+save_outputs(matrix, ids, names, truth)
+
+print(f"Saved {matrix.shape[0]} games × {matrix.shape[1]} features")

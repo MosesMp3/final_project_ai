@@ -6,5 +6,8 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "dotenv>=0.9.9",
+    "keras>=3.14.0",
     "requests>=2.33.1",
+    "scikit-learn>=1.8.0",
+    "tensorflow[and-cuda]>=2.21.0",
 ]

@@ -57,8 +57,8 @@
       1,
       17
     ],
-    "total_rating": 79.74345785776731,
-    "total_rating_count": 979
+    "total_rating": 79.74343845303869,
+    "total_rating_count": 980
   },
   {
     "id": 123,
@@ -211,8 +211,8 @@
       18,
       39
     ],
-    "total_rating": 88.28377204116003,
-    "total_rating_count": 1089
+    "total_rating": 88.2439788827093,
+    "total_rating_count": 1094
   },
   {
     "id": 891,
@@ -322,8 +322,163 @@
       1,
       27
     ],
-    "total_rating": 81.44317402189843,
-    "total_rating_count": 874
+    "total_rating": 81.44321529001078,
+    "total_rating_count": 875
+  },
+  {
+    "id": 1009,
+    "first_release_date": 1371168000,
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      5,
+      31
+    ],
+    "keywords": [
+      64,
+      69,
+      159,
+      161,
+      221,
+      222,
+      283,
+      380,
+      429,
+      510,
+      558,
+      623,
+      789,
+      962,
+      977,
+      1033,
+      1317,
+      1320,
+      1322,
+      1333,
+      1373,
+      1403,
+      1440,
+      1710,
+      1836,
+      1846,
+      1935,
+      1971,
+      2040,
+      2280,
+      2672,
+      3433,
+      3486,
+      3540,
+      4221,
+      4239,
+      4245,
+      4250,
+      4284,
+      4287,
+      4368,
+      4392,
+      4433,
+      4473,
+      4541,
+      4544,
+      4614,
+      4615,
+      4623,
+      4637,
+      4641,
+      4711,
+      4843,
+      4850,
+      4891,
+      4918,
+      4974,
+      4990,
+      5150,
+      5264,
+      5308,
+      5317,
+      5329,
+      5339,
+      5425,
+      5451,
+      5485,
+      5587,
+      5593,
+      5608,
+      5675,
+      5815,
+      5823,
+      5885,
+      5999,
+      6066,
+      6075,
+      6169,
+      6210,
+      6254,
+      6309,
+      6462,
+      6471,
+      6541,
+      6620,
+      6648,
+      6745,
+      6870,
+      6878,
+      6998,
+      7028,
+      7048,
+      7097,
+      7115,
+      7229,
+      7303,
+      7335,
+      7351,
+      7355,
+      7403,
+      7419,
+      7603,
+      8157,
+      8854,
+      9161,
+      9283,
+      9328,
+      9366,
+      9661,
+      9768,
+      11281,
+      23856
+    ],
+    "name": "The Last of Us",
+    "platforms": [
+      9
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      1020,
+      533,
+      1985,
+      19441,
+      538,
+      1121,
+      1164,
+      3025,
+      960,
+      20
+    ],
+    "storyline": "Twenty years after the outbreak of a parasitic fungus which takes over the neural functions of humans, Joel, a Texan with a tragic familial past, finds himself responsible with smuggling a fourteen-year-old girl named Ellie to a militia group called the Fireflies, while avoiding strict and deadly authorities, infected fungal hosts and other violent survivors.",
+    "summary": "The Last of Us is a third-person action-adventure game featuring a mix of exploration, stealth and combat. Players face both infected creatures and hostile human enemies while progressing through varied environments. The game includes a narrative-driven single-player campaign and a competitive online multiplayer mode called Factions. Trophy support is included, and additional downloadable content was made available separately.",
+    "themes": [
+      1,
+      19,
+      21,
+      23
+    ],
+    "total_rating": 92.2560972364563,
+    "total_rating_count": 3415
   },
   {
     "id": 1020,
@@ -579,8 +734,8 @@
       33,
       38
     ],
-    "total_rating": 88.87419789901149,
-    "total_rating_count": 5675
+    "total_rating": 88.89339475935186,
+    "total_rating_count": 5691
   },
   {
     "id": 1081,
@@ -698,6 +853,277 @@
     "total_rating_count": 364
   },
   {
+    "id": 1105,
+    "first_release_date": 1037491200,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      8,
+      31
+    ],
+    "keywords": [
+      3,
+      4,
+      16,
+      72,
+      129,
+      137,
+      477,
+      558,
+      947,
+      962,
+      1033,
+      1158,
+      1289,
+      1299,
+      1313,
+      1440,
+      1710,
+      3486,
+      3831,
+      4138,
+      4213,
+      4282,
+      4285,
+      4359,
+      4396,
+      4397,
+      4405,
+      4493,
+      4541,
+      4613,
+      4621,
+      4709,
+      4760,
+      4781,
+      4790,
+      4877,
+      4885,
+      4903,
+      4918,
+      4928,
+      4940,
+      4993,
+      4999,
+      5029,
+      5209,
+      5277,
+      5300,
+      5323,
+      5358,
+      5441,
+      5535,
+      5612,
+      5673,
+      5699,
+      5703,
+      5802,
+      5844,
+      5904,
+      5962,
+      5967,
+      6055,
+      6062,
+      6096,
+      6127,
+      6137,
+      6189,
+      6304,
+      6326,
+      6340,
+      6735,
+      6864,
+      7221,
+      7343,
+      7344,
+      7416,
+      7568,
+      7593,
+      7595,
+      7603,
+      8308,
+      8311,
+      8802,
+      9431,
+      9529,
+      10172,
+      10336,
+      10502,
+      10554,
+      11926,
+      13223,
+      15306,
+      15558,
+      26906,
+      37362,
+      42805
+    ],
+    "name": "Metroid Prime",
+    "platforms": [
+      21
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "similar_games": [
+      1108,
+      1111,
+      1103,
+      1128,
+      71,
+      1036,
+      533,
+      571,
+      19531,
+      9498
+    ],
+    "summary": "A 3D exploration-focused metroidvania with first-person shooting mechanics and the first 3D entry in the Metroid series, Metroid Prime follows Samus Aran after the events of Metroid (1986) as she boards a Space Pirate frigate, then chases her escaping archrival Ridley into the intricately structured Tallon IV, a planet full of deadly wildlife and former home to the advanced and ancient Chozo race.",
+    "themes": [
+      1,
+      18,
+      38
+    ],
+    "total_rating": 93.6474122240619,
+    "total_rating_count": 866
+  },
+  {
+    "id": 1128,
+    "first_release_date": 858816000,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8,
+      12,
+      31
+    ],
+    "keywords": [
+      16,
+      129,
+      137,
+      211,
+      226,
+      288,
+      477,
+      558,
+      623,
+      1033,
+      1059,
+      1186,
+      1288,
+      1289,
+      1293,
+      1313,
+      1320,
+      1705,
+      1716,
+      1961,
+      2069,
+      2415,
+      2452,
+      2543,
+      3035,
+      3486,
+      3831,
+      4134,
+      4138,
+      4284,
+      4349,
+      4353,
+      4359,
+      4372,
+      4388,
+      4405,
+      4407,
+      4494,
+      4541,
+      4613,
+      4622,
+      4693,
+      4709,
+      4726,
+      4759,
+      4891,
+      4918,
+      4956,
+      4991,
+      4994,
+      5018,
+      5105,
+      5287,
+      5308,
+      5328,
+      5441,
+      5450,
+      5523,
+      5531,
+      5535,
+      5587,
+      5593,
+      5601,
+      5633,
+      5673,
+      5962,
+      6088,
+      6126,
+      6127,
+      6189,
+      6221,
+      6745,
+      7416,
+      7467,
+      7576,
+      7590,
+      8983,
+      9006,
+      9159,
+      9529,
+      9777,
+      9835,
+      10172,
+      10336,
+      11030,
+      12708,
+      13951,
+      23933,
+      29745,
+      40744
+    ],
+    "name": "Castlevania: Symphony of the Night",
+    "platforms": [
+      9,
+      7,
+      38,
+      12
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      1134,
+      551,
+      1879,
+      832,
+      1114,
+      3349,
+      3025,
+      1130,
+      1020,
+      1105
+    ],
+    "storyline": "The game's story takes place during the year 1797, 5 years after the events of Rondo of Blood and begins with Richter Belmont's defeat of Count Dracula, mirroring the end of the former game. However, despite Dracula being defeated, Richter vanishes without a trace. Castlevania rises again five years later, and while there are no Belmonts to storm the castle, Alucard, the son of Dracula, awakens from his self-induced sleep, and decides to investigate what transpired during his slumber.\n\nMeanwhile, Maria Renard, Richter's sister-in-law, enters Castlevania herself to search for the missing Richter. She assists Alucard multiple times throughout the game.",
+    "summary": "Having been awoken from his eternal slumber by the reappearance of Castlevania, Alucard must once again face the evil minions of darkness. Use your vampiric powers, along with weapons, potions, and other magical relics to change the tide of battle.\n\nA mixture of platform and role-playing action with many hidden areas and secrets. Can you discover them all?",
+    "themes": [
+      1,
+      19,
+      38
+    ],
+    "total_rating": 92.26327876334267,
+    "total_rating_count": 813
+  },
+  {
     "id": 1183,
     "first_release_date": 1345852800,
     "game_modes": [
@@ -745,8 +1171,8 @@
     "themes": [
       17
     ],
-    "total_rating": 84.90615305609121,
-    "total_rating_count": 321
+    "total_rating": 84.90472607270401,
+    "total_rating_count": 322
   },
   {
     "id": 1277,
@@ -862,8 +1288,8 @@
       27,
       35
     ],
-    "total_rating": 81.80395409047145,
-    "total_rating_count": 648
+    "total_rating": 81.7761427032871,
+    "total_rating_count": 649
   },
   {
     "id": 1279,
@@ -943,8 +1369,8 @@
     "themes": [
       17
     ],
-    "total_rating": 83.2781287678865,
-    "total_rating_count": 713
+    "total_rating": 83.27822243202083,
+    "total_rating_count": 714
   },
   {
     "id": 1871,
@@ -1023,8 +1449,8 @@
       21,
       31
     ],
-    "total_rating": 85.11520864020966,
-    "total_rating_count": 1710
+    "total_rating": 85.09041733233695,
+    "total_rating_count": 1717
   },
   {
     "id": 1879,
@@ -1171,8 +1597,94 @@
       33,
       38
     ],
-    "total_rating": 81.71030411334672,
-    "total_rating_count": 1007
+    "total_rating": 81.68563813557338,
+    "total_rating_count": 1012
+  },
+  {
+    "id": 1882,
+    "first_release_date": 1378771200,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      9,
+      31,
+      32
+    ],
+    "keywords": [
+      129,
+      1158,
+      1315,
+      1437,
+      1836,
+      1961,
+      2071,
+      3203,
+      4134,
+      4135,
+      4138,
+      4150,
+      4247,
+      4270,
+      4287,
+      4336,
+      4359,
+      4484,
+      4578,
+      4580,
+      4622,
+      4637,
+      4781,
+      4897,
+      4928,
+      4999,
+      5176,
+      5257,
+      5262,
+      5535,
+      5564,
+      5657,
+      5963,
+      6391,
+      6457,
+      7048,
+      7316,
+      23933
+    ],
+    "name": "Amnesia: A Machine for Pigs",
+    "platforms": [
+      48,
+      3,
+      6,
+      14,
+      49,
+      130
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "similar_games": [
+      9727,
+      7342,
+      12482,
+      2939,
+      19531,
+      1906,
+      1910,
+      3188,
+      56033,
+      11270
+    ],
+    "storyline": "The year is 1899. Wealthy industrialist Oswald Mandus awakes in his bed, wracked with fever and haunted by dreams of a dark and hellish engine. Tortured by visions of a disastrous expedition to Mexico, broken on the failing dreams of an industrial utopia, wracked with guilt and tropical disease he wakes into a nightmare. The house is silent, the ground beneath him\nshaking at the will of some infernal machine: all he knows is that his children are in grave peril, and it is up to him to save them.",
+    "summary": "From the creators of Amnesia: The Dark Descent and Dear Esther comes a new first-person horrorgame that will drag you to the depths of greed power and madness. It will bury its snout into your ribs and it will eat your heart.",
+    "themes": [
+      1,
+      19,
+      21,
+      23
+    ],
+    "total_rating": 69.92916279112744,
+    "total_rating_count": 250
   },
   {
     "id": 1905,
@@ -1262,8 +1774,581 @@
       33,
       38
     ],
-    "total_rating": 76.794346435269,
-    "total_rating_count": 972
+    "total_rating": 76.7946601557334,
+    "total_rating_count": 973
+  },
+  {
+    "id": 2066,
+    "first_release_date": 1321315200,
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      4
+    ],
+    "keywords": [
+      3,
+      211,
+      226,
+      488,
+      589,
+      977,
+      1075,
+      1158,
+      1231,
+      1293,
+      1299,
+      1322,
+      1333,
+      1986,
+      2152,
+      2155,
+      2387,
+      2543,
+      3540,
+      3934,
+      4134,
+      4142,
+      4162,
+      4213,
+      4245,
+      4266,
+      4286,
+      4287,
+      4398,
+      4466,
+      4523,
+      4785,
+      4804,
+      4805,
+      4869,
+      4890,
+      4891,
+      4942,
+      5296,
+      5323,
+      5328,
+      5398,
+      5731,
+      5783,
+      5807,
+      5850,
+      5905,
+      5908,
+      5909,
+      5910,
+      5911,
+      6036,
+      6089,
+      6385,
+      6494,
+      6500,
+      6537,
+      6619,
+      6716,
+      6779,
+      6827,
+      6852,
+      6874,
+      7221,
+      7355,
+      7389,
+      7481,
+      7700,
+      8290,
+      9360,
+      9853,
+      11782,
+      49308
+    ],
+    "name": "Ultimate Marvel vs. Capcom 3",
+    "platforms": [
+      9,
+      48,
+      6,
+      46,
+      12,
+      49
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      8247,
+      119,
+      494,
+      1244,
+      5181,
+      1006,
+      4999,
+      4755,
+      564,
+      7020
+    ],
+    "summary": "Ultimate Marvel vs. Capcom 3 is a crossover fighting game developed by Capcom in collaboration with Eighting. It is an updated version of Marvel vs. Capcom 3: Fate of Two Worlds. The game features characters from both Capcom's video game franchises and comic book series published by Marvel Comics. The game was released in November 2011 for the PlayStation 3 and Xbox 360, and was featured as a launch title for the PlayStation Vita in 2012.\n\nIn Ultimate Marvel vs. Capcom 3, players select a team of three characters to engage in combat and attempt to knock out their opponents. As an update, the game utilizes largely identical gameplay mechanics to the original. However, both the aerial combat and X-Factor systems, introduced in Fate of Two Worlds, have received adjustments. In addition to gameplay modifications and new playable characters, the game features several aesthetic changes.\n\nAfter the events of the 2011 T\u014dhoku earthquake and tsunami disrupted the development schedule for downloadable content for Fate of Two Worlds, the additional content was created into a standalone title, Ultimate Marvel vs. Capcom 3, for a discounted retail price. The game received generally positive reviews upon release; critics praised the expanded character roster and improved online experience, but criticized the lack of new features and game modes.",
+    "themes": [
+      1
+    ],
+    "total_rating": 76.61482565660509,
+    "total_rating_count": 139
+  },
+  {
+    "id": 2135,
+    "first_release_date": 1411171200,
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      5,
+      25,
+      31
+    ],
+    "keywords": [
+      962,
+      982,
+      1333,
+      1511,
+      1961,
+      2071,
+      2229,
+      4239,
+      4282,
+      4297,
+      4347,
+      4359,
+      4613,
+      4717,
+      4842,
+      4931,
+      4964,
+      5305,
+      5316,
+      5317,
+      5584,
+      5629,
+      6170,
+      6852,
+      7386,
+      7454,
+      26306
+    ],
+    "name": "Bayonetta 2",
+    "platforms": [
+      41
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      19164,
+      2136,
+      55038,
+      19133,
+      105049,
+      47823,
+      103168,
+      96217,
+      7335,
+      5867
+    ],
+    "storyline": "Starting a few months after the events of the first game, Bayonetta and Jeanne are fighting off a group of angels who attacked a city during a parade. During one particular attack, Jeanne protects Bayonetta from a sudden demon summon gone wrong, causing her soul to be claimed by the depths of Hell. Upon a tip from her informant Enzo, Bayonetta heads to the sacred mountain of Fimbulvinter. An entrance to Inferno, the Gates of Hell, is said to be inside and Bayonetta plans to use it to save her friend.",
+    "summary": "The witching hour strikes again. Brimming with intricate battles that take place in, on and all over epic set pieces, Bayonetta 2 finds our sassy heroine battling angels and demons in unearthly beautiful HD. You\u2019re bound to love how it feels to string together combos with unimaginable weapons and to summon demons using Bayonetta\u2019s Umbran Weave in this frantic stylized action game.",
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 89.44105274809635,
+    "total_rating_count": 257
+  },
+  {
+    "id": 2136,
+    "first_release_date": 1256774400,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      25,
+      31
+    ],
+    "keywords": [
+      962,
+      1158,
+      1494,
+      4004,
+      4134,
+      4150,
+      4245,
+      4344,
+      4347,
+      5025,
+      5317,
+      5633,
+      6048,
+      6385,
+      6852,
+      7282,
+      7454,
+      26306
+    ],
+    "name": "Bayonetta",
+    "platforms": [
+      9,
+      6,
+      12
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      7350,
+      11646,
+      9938,
+      19164,
+      9278,
+      55038,
+      20329,
+      7344,
+      105049,
+      18182
+    ],
+    "storyline": "Bayonetta is a witch, having woken up 20 years ago from a casket in the bottom of a secluded lake. In an effort to uncover the truth of her forgotten past, Bayonetta travels to the holy city of Vigrid in Europe, the ancestral home of the Lumen Sages, worshippers of light, and the Umbra Witches, followers of darkness. As she is pitted against a seemingly endless army of angels, including another Umbra Witch named Jeanne, she follows a mysterious voice and is accompanied by suave journalist Luka Redgrave, as well as young and innocent Cereza, whose mysterious appearance may be connected to the mystery behind her lost memories.",
+    "summary": "A member of an ancient witch clan and possessing powers beyond the comprehension of mere mortals, Bayonetta faces-off against countless angelic enemies, many reaching epic proportions, in a game of 100% pure, unadulterated all-out action. Outlandish finishing moves are performed with balletic grace as Bayonetta flows from one fight to another. With magnificent over-the-top action taking place in stages that are a veritable theme park of exciting attractions, Bayonetta pushes the limits of the action genre, bringing to life its fast-paced, dynamic climax combat.",
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 86.42640134592762,
+    "total_rating_count": 565
+  },
+  {
+    "id": 2155,
+    "first_release_date": 1316649600,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      12,
+      31
+    ],
+    "keywords": [
+      16,
+      72,
+      98,
+      105,
+      109,
+      147,
+      151,
+      162,
+      226,
+      558,
+      905,
+      992,
+      1032,
+      1033,
+      1293,
+      1317,
+      1320,
+      1333,
+      1345,
+      2472,
+      3486,
+      3898,
+      4134,
+      4162,
+      4245,
+      4272,
+      4344,
+      4353,
+      4359,
+      4392,
+      4397,
+      4580,
+      4613,
+      4759,
+      4770,
+      4777,
+      4843,
+      4850,
+      4852,
+      4855,
+      4886,
+      4891,
+      4897,
+      4918,
+      5019,
+      5025,
+      5323,
+      5564,
+      5633,
+      5657,
+      5783,
+      5820,
+      5840,
+      5885,
+      5967,
+      6076,
+      6189,
+      6648,
+      6653,
+      6657,
+      7215,
+      7369,
+      7386,
+      7568,
+      7653,
+      8267,
+      9339,
+      9453,
+      9533,
+      9742,
+      9777,
+      9781,
+      9782,
+      9952,
+      10814,
+      11549,
+      12424,
+      17326,
+      40744,
+      43599
+    ],
+    "name": "Dark Souls",
+    "platforms": [
+      9,
+      6,
+      12
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      2368,
+      119133,
+      5619,
+      7334,
+      11133,
+      1081,
+      23733,
+      533,
+      472,
+      3025
+    ],
+    "storyline": "Dark Souls takes place in the dark, decaying kingdom of Lordran, a world in decline where gods, humans, and other mystical beings struggle with the inevitability of age, fire, and darkness. The player assumes the role of an Undead, a cursed being who is fated to resurrect repeatedly after death. The Undead is prophesied to either link the fire and prolong the Age of Fire or let it fade, ushering in the Age of Dark.\n\nThe game begins with the player imprisoned in the Northern Undead Asylum. Escaping sets the stage for a journey across Lordran, from crumbling castles and ancient ruins to twisted forests and treacherous catacombs. Along the way, the player encounters remnants of once-great heroes, malevolent creatures, and godlike beings, each guarding vital keys, souls, or knowledge necessary to progress.\n\nCentral to the story are the Four Lords of Cinder: powerful beings who previously linked the First Flame and have now abandoned their thrones. They include:\n\nGwyn, Lord of Sunlight, whose fate is intertwined with the First Flame.\n\nNito, the First of the Dead, a skeletal lord shrouded in deathly mists.\n\nThe Witch of Izalith, whose attempts to recreate the First Flame led to catastrophic consequences.\n\nSeath the Scaleless, a dragon obsessed with immortality and forbidden knowledge.\n\nAs the Undead, the player collects the Lord Souls, defeats these Lords, and reaches the Kiln of the First Flame, confronting Gwyn\u2019s remnant. The climax offers a choice: to link the fire, continuing the Age of Fire, or let it fade, allowing the Age of Dark to begin\u2014symbolizing the cyclical struggle between light and dark, life and decay, in Lordran.\n\nThe narrative is deliberately ambiguous and cryptic, conveyed mostly through environmental storytelling, item descriptions, and subtle NPC dialogue. Themes of despair, perseverance, and the cyclical nature of history permeate the journey, creating a haunting and immersive experience that rewards careful observation and exploration.",
+    "summary": "Dark Souls is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. Released in September 2011 as a spiritual sequel to Demon's Souls, it is set in a dark, medieval fantasy world. It is renowned for its challenging gameplay, intricate level design, and deep lore. Players control a customizable character known as the Chosen Undead, embarking on a perilous journey to uncover the secrets of the cursed land of Lordran.\n\nDark Souls is known for its punishing difficulty, requiring players to carefully manage combat, stamina, and resources while navigating hostile environments filled with dangerous enemies and formidable bosses. The game features a unique multiplayer component, allowing players to leave messages for others, summon allies for cooperative play, or invade other players' worlds for PvP combat.\n\nThe original release of Dark Souls received critical acclaim for its atmospheric world, innovative mechanics, and rewarding gameplay, solidifying its place as a seminal title in the action RPG genre.",
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 88.59245803428357,
+    "total_rating_count": 1646
+  },
+  {
+    "id": 2184,
+    "first_release_date": 1287014400,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      8,
+      31
+    ],
+    "keywords": [
+      839,
+      1059,
+      2975,
+      3486,
+      4287,
+      4484
+    ],
+    "name": "Kirby's Epic Yarn",
+    "platforms": [
+      5,
+      41
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      20342,
+      24426,
+      55173,
+      55190,
+      28070,
+      56033,
+      89597,
+      111130,
+      37001,
+      19150
+    ],
+    "summary": "While walking through Dream Land, Kirby discovers a tomato and decides to eat it. Yin-Yarn, the evil sorceror who possessed the tomato (revealed to be a Metamato), appears and magically banishes Kirby into Patch Land, a world completely made of fabric, via the sock carried around his neck. In Patch Land, Kirby's body transforms into yarn, rendering his power to inhale useless. Instead, Kirby is granted the ability to transform by the magic of the Metamato, which he uses to rescue a boy being attacked by a monster. The boy, named Prince Fluff, explains that Yin-Yarn has separated Patch Land into pieces, which was tied together by magic yarn. Kirby decides to help Prince Fluff collect all seven pieces of the yarn and restore Patch Land.\n\nMeanwhile, Yin-Yarn captures King Dedede and Meta Knight and places them under his control. Kirby is forced to fight Dedede and Meta Knight after they ambush him in Patch Land. When Kirby and Prince Fluff finally collect all the Magic Yarn, Meta Knight, no longer under the sorceror's influence, informs Kirby that Yin-Yarn is turning Dream Land into fabric. Prince Fluff produces the second sock, its magic fully restored, and uses it to transport Kirby and himself to Dream Land; now completely made of yarn. Kirby confronts and defeats Yin-Yarn, breaking the spell and returning Dream Land and himself back to normal. Prince Fluff parts with Kirby, stating that he can visit Patch Land anytime via Yin-Yarn's magic sock.",
+    "themes": [
+      1
+    ],
+    "total_rating": 77.65196626112328,
+    "total_rating_count": 83
+  },
+  {
+    "id": 2368,
+    "first_release_date": 1394496000,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      12,
+      31
+    ],
+    "keywords": [
+      151,
+      162,
+      223,
+      226,
+      250,
+      477,
+      558,
+      1033,
+      1293,
+      1320,
+      1345,
+      2071,
+      2242,
+      2472,
+      2488,
+      3486,
+      4179,
+      4235,
+      4245,
+      4272,
+      4273,
+      4284,
+      4353,
+      4392,
+      4397,
+      4613,
+      4681,
+      4777,
+      4787,
+      4843,
+      4852,
+      4869,
+      4886,
+      4891,
+      4918,
+      5019,
+      5308,
+      5323,
+      5447,
+      5563,
+      5564,
+      5574,
+      5840,
+      5967,
+      6076,
+      6486,
+      6648,
+      6653,
+      6657,
+      6716,
+      7423,
+      7653,
+      8220,
+      9533,
+      9777,
+      9780,
+      9781,
+      9782,
+      17326,
+      26048,
+      40744
+    ],
+    "name": "Dark Souls II",
+    "platforms": [
+      9,
+      6,
+      12
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      2155,
+      11133,
+      119133,
+      7334,
+      5619,
+      1942,
+      6452,
+      660,
+      1593,
+      472
+    ],
+    "summary": "Dark Souls II is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment, released in March 2014. Set in the kingdom of Drangleic, players control the Bearer of the Curse, seeking to cure their undead curse. The game features challenging combat, deep lore, and a dark, atmospheric world. It introduces new mechanics like dual-wielding and a flexible character progression system, with improved multiplayer options for cooperative and PvP play.\n\nThe online servers were shut down on March 31st, 2024.",
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 84.74309612932723,
+    "total_rating_count": 841
+  },
+  {
+    "id": 2475,
+    "first_release_date": 1312416000,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8,
+      33
+    ],
+    "keywords": [
+      1293,
+      1345,
+      2152,
+      2388,
+      4134,
+      4170,
+      4213,
+      4359,
+      4400,
+      4510,
+      4869,
+      5173,
+      5360
+    ],
+    "name": "Temple Run",
+    "platforms": [
+      34,
+      39
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      56033,
+      55190,
+      55173,
+      6166,
+      19150,
+      58114,
+      5589,
+      110503,
+      1086,
+      39769
+    ],
+    "summary": "Temple Run is an \"endless running\" video game developed by the Raleigh-based Imangi Studios. The player takes on the role of an explorer who, having stolen an idol from a temple, is chased by \"demonic monkeys\". The game is available on iOS and Android systems. It was released for Windows Phone 8 towards the end of March, 2013.",
+    "themes": [
+      1
+    ],
+    "total_rating": 70.49859743286851,
+    "total_rating_count": 76
   },
   {
     "id": 2584,
@@ -1357,8 +2442,8 @@
       33,
       38
     ],
-    "total_rating": 78.30697688753114,
-    "total_rating_count": 98
+    "total_rating": 78.30992799388083,
+    "total_rating_count": 99
   },
   {
     "id": 2903,
@@ -1465,8 +2550,8 @@
       1,
       18
     ],
-    "total_rating": 74.11431326477091,
-    "total_rating_count": 498
+    "total_rating": 74.11417654192388,
+    "total_rating_count": 499
   },
   {
     "id": 2963,
@@ -1582,8 +2667,8 @@
       17,
       39
     ],
-    "total_rating": 84.82551249593587,
-    "total_rating_count": 745
+    "total_rating": 84.82641048427664,
+    "total_rating_count": 747
   },
   {
     "id": 2993,
@@ -1708,8 +2793,8 @@
       31,
       43
     ],
-    "total_rating": 81.4915145535497,
-    "total_rating_count": 1180
+    "total_rating": 81.49163309125723,
+    "total_rating_count": 1183
   },
   {
     "id": 3012,
@@ -1775,6 +2860,113 @@
     ],
     "total_rating": 73.25213886447241,
     "total_rating_count": 219
+  },
+  {
+    "id": 3042,
+    "first_release_date": 1422230400,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      5,
+      12,
+      31
+    ],
+    "keywords": [
+      5,
+      69,
+      129,
+      390,
+      510,
+      1158,
+      1299,
+      1345,
+      1836,
+      2280,
+      2324,
+      2452,
+      2841,
+      3831,
+      4004,
+      4134,
+      4151,
+      4179,
+      4276,
+      4287,
+      4345,
+      4403,
+      4433,
+      4541,
+      4578,
+      4580,
+      4586,
+      4615,
+      4711,
+      4852,
+      4891,
+      4903,
+      4918,
+      4940,
+      5176,
+      5214,
+      5305,
+      5306,
+      5317,
+      5323,
+      5333,
+      5523,
+      5564,
+      5626,
+      6075,
+      6076,
+      6213,
+      6326,
+      6587,
+      6730,
+      6732,
+      6733,
+      6735,
+      6736,
+      6739,
+      10919,
+      23933
+    ],
+    "name": "Dying Light",
+    "platforms": [
+      48,
+      3,
+      6,
+      14,
+      49
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "similar_games": [
+      19441,
+      1121,
+      5647,
+      9727,
+      3188,
+      19561,
+      3025,
+      5606,
+      102584,
+      9498
+    ],
+    "storyline": "In the city of Harran, a mysterious viral outbreak has turned most of the population into hyper-aggressive zombie-like creatures, forcing Harran's Defense Ministry to quarantine the entire city. The Global Relief Effort (GRE) assists survivors still trapped in the city by regularly airdropping supplies. The GRE hires Kyle Crane to infiltrate Harran in order to retrieve a sensitive file stolen from them by Kadir Suleiman, which he is using as leverage to blackmail them, with the threat of publicizing it if anything were to happen to him. Crane is airdropped into Harran, where he is ambushed by a gang of hostile bandits. As the infected attack, Crane is bitten and infected, but rescued by Jade Aldemir and Amir Ghoreyshi. Amir sacrifices himself to buy Jade and Crane time, and Jade takes him to a survivor sanctuary called the Tower. Crane wakes up and is introduced to Rahim Aldemir, Jade's brother. Rahim then teaches Crane parkour and sends him to Spike, who gives him his first task as a resident of the tower. Crane learns that the Tower, which seeks to help other survivors, is being harassed by a gang of bandits led by a warlord named Rais who steals and hoards the supplies from the GRE airdrops, including Antizin; a vaccine that suppresses symptoms of infection and keeps bitten people from turning into the infected. After Harris Brecken, leader of the tower is nearly killed by a rival runner in a mission to retrieve an Antizin drop, need for the drug becomes immense. Crane volunteers and manages to reach an airdrop containing Antizin, but despite the dire need of the vaccine by the survivors, Crane is instructed by the GRE to destroy the airdrop, instructing him to reach out to Rais in order to buy the vaccine in order to confirm his identity. Crane reluctantly complies and informs the Tower that the supplies have been looted.\n\nUpset, Brecken tasks Crane with the job of making a deal with Rais. Upon meeting Rais, Crane is able to confirm that he is indeed Suleiman. He carries out a series of unethical tasks for Rais under the assumption that he will be rewarded with two crates of Antizin. Crane is unable to locate the file, and is later betrayed by Rais, who only gives him five vials of Antizin. He later breaks off business with the GRE when they halt the supply drops and refuse to help the Tower. The situation in the tower worsens, and a whole floor is sealed off when an outbreak occurs. While doing an errand, Rahim tells Crane that he and Omar were planning to bomb an infected nest. Crane is opposed to this plan. After an argument over the radio, he gives chase to a fleeing Rahim. Upon catching up to him, he finds that Omar is dead, while Rahim has been wounded. He then executes Rahim's plans, resulting in the killing of the infected in the compound. When he gets back to Rahim he discovers that he was actually bitten and had turned while Crane was gone, forcing Crane to respectfully snap Rahim's neck when he attacks him. When Crane returns to the tower to inform Brecken of the news, Jade overhears them, and visibly upset, takes off.\n\nMeanwhile, a scientist at the Tower named Dr. Imran Zere, who was attempting to develop a cure for the virus, is kidnapped by Rais, prompting Crane to attempt a rescue mission. Crane is also captured by Rais, who reveals that the file he stole contains proof that the GRE intends to weaponize the virus rather than develop a cure and releases the file to the public. Crane manages to escape before being executed, resulting in Rais losing one of his hands during the process. Dr. Zere is killed in the rescue attempt, but manages to tell Crane that he had entrusted his research to Jade, who is tasked with delivering it to another scientist named Dr. Allen Camden. As Crane goes to look for Jade, he finds out that the Defense Ministry is planning to bomb Harran in an effort to completely eradicate the outbreak, claiming that there are no survivors left in the city. He manages to reactivate a radio tower and broadcasts a message to the outside world, thwarting the Ministry's plan. Jade was captured by Rais, who also steals Dr. Zere's research. Crane manages to rescue Jade and recover a part of Dr. Zere's research, but Jade admits that she has been bitten, and pleads with Crane to stop Rais. Jade then succumbs to the wound, forcing Crane to kill her. After killing Rais' assistant, Tair with his own machete, Crane delivers the tissue samples to Dr. Camden, who believes that he is very close to the cure, but needs the rest of Dr. Zere's data. Crane then finds out that Rais has cut a deal with the GRE, in which he will hand over Dr. Zere's research data to them in return for extraction from Harran. Crane then assaults Rais' headquarters (filled with infected) and battles him atop a skyscraper, eventually stabbing Rais in the neck and throwing him off the building. He recovers the research data and decides to turn it over to Dr. Camden instead of the GRE, intending to stay in Harran to help the survivors.",
+    "summary": "Dying Light is a first-person, action survival horror game set in a vast and dangerous open world. During the day, players traverse an expansive urban environment overrun by a vicious outbreak, scavenging the world for supplies and crafting weapons to defend against the growing infected population. At night, the hunter becomes the hunted, as the infected become aggressive and more dangerous. Most frightening are the predators which only appear after sundown. Players must use everything in their power to survive until the morning\u2019s first light.",
+    "themes": [
+      1,
+      19,
+      21,
+      23,
+      38
+    ],
+    "total_rating": 75.79600227272338,
+    "total_rating_count": 1022
   },
   {
     "id": 3189,
@@ -1855,7 +3047,7 @@
       38
     ],
     "total_rating": 82.36474776657485,
-    "total_rating_count": 197
+    "total_rating_count": 198
   },
   {
     "id": 3212,
@@ -1918,8 +3110,8 @@
       33,
       44
     ],
-    "total_rating": 69.99766516085418,
-    "total_rating_count": 653
+    "total_rating": 69.99794561785049,
+    "total_rating_count": 654
   },
   {
     "id": 3277,
@@ -2084,8 +3276,8 @@
       33,
       38
     ],
-    "total_rating": 73.6162703746549,
-    "total_rating_count": 260
+    "total_rating": 73.6144664670122,
+    "total_rating_count": 261
   },
   {
     "id": 3278,
@@ -2131,8 +3323,289 @@
     "themes": [
       33
     ],
-    "total_rating": 79.3866455829931,
-    "total_rating_count": 447
+    "total_rating": 78.90770657534462,
+    "total_rating_count": 450
+  },
+  {
+    "id": 3751,
+    "first_release_date": 1172534400,
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      9
+    ],
+    "keywords": [
+      1158,
+      4134,
+      4159,
+      4300,
+      4520,
+      5025,
+      5262,
+      5633,
+      6003
+    ],
+    "name": "Peggle",
+    "platforms": [
+      405,
+      73,
+      240,
+      9,
+      34,
+      6,
+      39,
+      14,
+      38,
+      12,
+      55
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      55190,
+      55173,
+      56033,
+      28113,
+      76110,
+      18167,
+      19164,
+      25646,
+      16992,
+      20329
+    ],
+    "summary": "Take your best shot with energizing arcade fun! Aim, shoot, clear the orange pegs, then sit back and cheer as 10 whimsical teachers guide you to Peggle greatness. Conquer 55 fanciful levels with 10 mystical Magic Powers, racking up bonus points and shots you'll smile about for weeks. Face off against your friends in Duel Mode, or tackle 75 extra-tricky challenges. It's luck and skill and joyous thrills, and amidst all this fevered action only one question remains: Can you become a Peggle Master?",
+    "themes": [
+      1,
+      27
+    ],
+    "total_rating": 80.34083419338569,
+    "total_rating_count": 118
+  },
+  {
+    "id": 4754,
+    "first_release_date": 1412553600,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      31
+    ],
+    "keywords": [
+      3,
+      129,
+      131,
+      223,
+      250,
+      510,
+      575,
+      957,
+      962,
+      974,
+      1033,
+      1158,
+      1286,
+      1293,
+      1308,
+      1437,
+      1697,
+      1836,
+      3203,
+      3257,
+      4004,
+      4134,
+      4135,
+      4138,
+      4142,
+      4150,
+      4153,
+      4245,
+      4287,
+      4359,
+      4446,
+      4583,
+      4609,
+      4622,
+      4877,
+      4990,
+      5176,
+      5316,
+      5317,
+      5823,
+      6621,
+      6745,
+      7215,
+      7460,
+      8251,
+      9431,
+      10336,
+      10502,
+      11478,
+      16877,
+      17092,
+      19296,
+      24231,
+      24235,
+      38356,
+      42024,
+      42040,
+      43960,
+      44629,
+      45699,
+      48046
+    ],
+    "name": "Alien: Isolation",
+    "platforms": [
+      9,
+      48,
+      3,
+      6,
+      14,
+      12,
+      49,
+      130
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "similar_games": [
+      9727,
+      119298,
+      2939,
+      19531,
+      9174,
+      7350,
+      1882,
+      103329,
+      3025,
+      23733
+    ],
+    "storyline": "Fifteen years after the events of Alien, Ellen Ripley\u2019s daughter Amanda enters a desperate battle for survival on a mission to unravel the truth behind her mother's disappearance.",
+    "summary": "Alien: Isolation is a survival horror game based on the Alien franchise. As Amanda Ripley, daughter of Ellen Ripley, you will navigate through an increasingly volatile world as you find yourself confronted on all sides by a panicked population and an unpredictable Alien. You must scavenge resources, improvise solutions and use your wits, not just to succeed in your mission but to simply stay alive. In addition to the main story mode there's Survivor mode in which the player needs to escape from a specially designed map fulfilling secondary objectives along the way, while being aggressively hunted by the alien. This mode includes online leaderboards.",
+    "themes": [
+      1,
+      18,
+      19,
+      21,
+      23
+    ],
+    "total_rating": 85.47568688119122,
+    "total_rating_count": 703
+  },
+  {
+    "id": 4759,
+    "first_release_date": 1376956800,
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      4,
+      32
+    ],
+    "keywords": [
+      61,
+      288,
+      413,
+      962,
+      1158,
+      1186,
+      1293,
+      1299,
+      1333,
+      1345,
+      1379,
+      1422,
+      1494,
+      1675,
+      1986,
+      2493,
+      2543,
+      2803,
+      3548,
+      4004,
+      4134,
+      4135,
+      4150,
+      4162,
+      4213,
+      4245,
+      4266,
+      4286,
+      4287,
+      4294,
+      4298,
+      4345,
+      4368,
+      4403,
+      4410,
+      4514,
+      4622,
+      4623,
+      4718,
+      4871,
+      4990,
+      5019,
+      5151,
+      5305,
+      5313,
+      5328,
+      5387,
+      5398,
+      5438,
+      5575,
+      5587,
+      5850,
+      5908,
+      5909,
+      5910,
+      6036,
+      6368,
+      6540,
+      6664,
+      7287,
+      7303,
+      7357,
+      7481,
+      8157,
+      9853,
+      10919,
+      11312,
+      23933
+    ],
+    "name": "Divekick",
+    "platforms": [
+      9,
+      48,
+      6,
+      46,
+      49
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      3188,
+      11646,
+      564,
+      1006,
+      16992,
+      7350,
+      3022,
+      7351,
+      119,
+      571
+    ],
+    "summary": "Divekick is the world\u2019s first two-button fighting game. It distills the essence of the fighting game genre into just two buttons with no d-pad directional movement. It is a comedic parody of fighting game motifs and contains many humorous references to games (especially those in the Street Fighter franchise) as well as inside jokes from within the competitive fighting game community. Unlike most fighting games which are played using many buttons for many different kinds of movement and attacks, Divekick is played using only two buttons, Dive and Kick.",
+    "themes": [
+      1,
+      27
+    ],
+    "total_rating": 62.24392366943596,
+    "total_rating_count": 26
   },
   {
     "id": 5574,
@@ -2208,6 +3681,212 @@
     "total_rating_count": 209
   },
   {
+    "id": 5589,
+    "first_release_date": 1343865600,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      11,
+      15
+    ],
+    "keywords": [
+      77,
+      98,
+      359,
+      2385,
+      4134,
+      4400,
+      4510,
+      4511,
+      5538
+    ],
+    "name": "Clash of Clans",
+    "platforms": [
+      34,
+      39
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "similar_games": [
+      119156,
+      27209,
+      27092,
+      113201,
+      77597,
+      15707,
+      6985,
+      11544,
+      2040,
+      56967
+    ],
+    "summary": "Clash of Clans is an addictive mixture of strategic planning and competitive fast-paced combats. Raise an army of Barbarians, War Wizards, Dragons and other mighty fighters. Join a clan of players and rise through the ranks, or create your own Clan to contest ownership of the Realm.",
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 75.25548221949397,
+    "total_rating_count": 201
+  },
+  {
+    "id": 5636,
+    "first_release_date": 1334188800,
+    "game_modes": [
+      1,
+      3
+    ],
+    "genres": [
+      9,
+      15,
+      33
+    ],
+    "keywords": [
+      101,
+      734,
+      4134
+    ],
+    "name": "Candy Crush Saga",
+    "platforms": [
+      132,
+      74,
+      34,
+      6,
+      39
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "similar_games": [
+      89817,
+      56033,
+      19404,
+      25905,
+      90788,
+      119156,
+      13196,
+      7615,
+      110503,
+      77597
+    ],
+    "summary": "Candy Crush Saga is a free-to-play match-three puzzle video game released by King as a variation of their browser game Candy Crush. In the game, players complete levels by swapping colored pieces of candy on a game board to make a match of three or more of the same color, eliminating those candies from the board and replacing them with new ones, which could potentially create further matches. Boards have various goals that must be completed within a fixed number of moves, such as collecting a specific number of a type of candy.",
+    "themes": [
+      17
+    ],
+    "total_rating": 57.81091865911223,
+    "total_rating_count": 78
+  },
+  {
+    "id": 6166,
+    "first_release_date": 1337817600,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8,
+      33
+    ],
+    "keywords": [
+      390,
+      726,
+      957,
+      1935,
+      2388,
+      4134,
+      4215
+    ],
+    "name": "Subway Surfers",
+    "platforms": [
+      82,
+      74,
+      34,
+      6,
+      39
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      56033,
+      55190,
+      55173,
+      96452,
+      41064,
+      19150,
+      102584,
+      58114,
+      77529,
+      89025
+    ],
+    "storyline": "A group of kids draw graffiti on trains when they're spotted by an officer. To escape from him they run across the subway, going through countless obstacles along the way.",
+    "summary": "DASH as fast as you can!\nDODGE the oncoming trains!\n\nHelp Jake, Tricky & Fresh escape from the grumpy Inspector and his dog.",
+    "themes": [
+      1,
+      21,
+      35
+    ],
+    "total_rating": 67.38086757200774,
+    "total_rating_count": 139
+  },
+  {
+    "id": 6189,
+    "first_release_date": 1103500800,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      8,
+      31,
+      32
+    ],
+    "keywords": [
+      288,
+      477,
+      1263,
+      1780,
+      4074,
+      4134,
+      27078
+    ],
+    "name": "Cave Story",
+    "platforms": [
+      3,
+      37,
+      5,
+      6,
+      14,
+      159
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      28070,
+      55038,
+      36198,
+      105269,
+      19150,
+      24426,
+      55190,
+      107318,
+      55173,
+      56033
+    ],
+    "storyline": "The player character awakens in a cave with no memory of how he came to be there. He finds a village of Mimigas, who are being persecuted by the Doctor. The Doctor's servants Misery and Balrog are looking for Sue Sakamoto, a girl who had been transformed into a Mimiga. Not finding her, they mistakenly abduct another Mimiga named Toroko instead. The player finds Sue in the Egg Corridor, where she discovers the eggs of a Sky Dragon, which could allow her to escape the floating island if hatched. Sue attempts to rescue her brother Kazuma, but King, the leader of Mimiga Village, captures her and holds her responsible for Toroko's kidnapping. Sue tasks the player with retrieving Kazuma from Grasstown. After freeing him, they meet Professor Booster, who reveals that the Doctor plans to use the red flowers on Mimigas to create an army to take over the surface world. Booster sends the player to the Sand Zone to destroy the red flowers before the Doctor can find them. While there, the player meets Curly Brace, a female robot who also has no memories of her past, and Jenka, an old witch who is Misery's mother and guardian of the red flowers. Jenka calls the player character a \"soldier from the surface\", one of many who were sent to the island to slaughter the Mimigas.\n\nMisery transports the player to the Labyrinth deep inside the island as punishment for interfering with the Doctor's plans. Curly Brace has also been thrown into the Labyrinth and they cooperate to escape. Balrog helps them to move the boulder blocking the exit, revealing his kind nature. The pair find and defeat the Core, a magical creature whose power keeps the island afloat. However, the Doctor steps in to save it before the island collapses. Depending on certain conditions, the player may rescue Curly Brace, who had sacrificed her air tank to save the player character. When he returns to Mimiga Village, he finds that the Doctor has captured the Mimigas. In the Egg Corridor, Kazuma offers the player a choice to escape the island with him using a Sky Dragon, leading to an alternate ending in which the Doctor conquers the surface world while Kazuma and the player hide in the mountains. The player may instead choose to confront the Doctor and destroy the island's Core, which would return the Mimigas to normal. The player scales the outer wall of the island to reach the Plantation where the Doctor is using the Mimigas as slave laborers to grow red flowers. The Doctor's servants capture him and place him in a jail cell with Sue. She is taken away before the player wakes up, but her letter reveals that the Doctor was a member of the research expedition that included Sue's family and Professor Booster, but he betrayed them once he found the Demon Crown. Sue directs the player to find her mother who may have a plan to stop the Doctor.\n\nIf the player saved Curly Brace earlier, the player may find an item to restore her memories. She remembers that the player character's name is Quote, and that they were not the killer robots who slaughtered Mimigas in the past. Instead, they were sent to destroy the Demon Crown to prevent its power from falling into the wrong hands. Quote finds Sue's mother, Momorin, who is building a rocket that will allow access to the top of the island where the Doctor resides. After helping her complete the rocket, Quote confronts Misery and the Doctor. The Doctor has purified the essence of the red flowers into a crystal, which allows him to survive even after Quote destroys his body. The Doctor's spirit possesses the Core of the island, but Quote succeeds in destroying that as well, causing the island to begin falling to Earth. Under certain conditions, the player may proceed into a bonus stage called the Bloodstained Sanctuary where the creator of the Demon Crown, Ballos, is imprisoned. Ballos, Jenka's brother, was a powerful wizard who went insane after being tortured. Misery forced Ballos to create the Demon Crown, but she and Balrog became cursed to serve whoever possessed it. With the help of Curly Brace, Quote defeats Ballos and stops the source of the negative energy that was causing the island to fall, saving its inhabitants. Balrog saves the two before they are crushed by Ballos' collapsing prison\u2014he had been sent by Misery as thanks for breaking her curse. Quote, Curly Brace, and Balrog leave the island to live out their days in peace.",
+    "summary": "A side-scrolling platformer in which a robot traverses a strange world that has been thrown into disorder due to its violent history and a doctor that is attempting to exploit the inhabitants to aid him in his own pursuit for power.",
+    "themes": [
+      1,
+      17,
+      18,
+      31
+    ],
+    "total_rating": 83.68420722974024,
+    "total_rating_count": 131
+  },
+  {
     "id": 6292,
     "first_release_date": 1418774400,
     "game_modes": [
@@ -2279,7 +3958,7 @@
       38
     ],
     "total_rating": 71.19371058247039,
-    "total_rating_count": 195
+    "total_rating_count": 196
   },
   {
     "id": 6774,
@@ -2326,6 +4005,130 @@
     ],
     "total_rating": 69.971197621481,
     "total_rating_count": 7
+  },
+  {
+    "id": 7194,
+    "first_release_date": 1255564800,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      31,
+      34
+    ],
+    "keywords": [
+      78,
+      103,
+      170,
+      221,
+      429,
+      826,
+      1032,
+      1158,
+      1193,
+      1317,
+      1423,
+      2071,
+      2115,
+      2147,
+      2452,
+      3898,
+      4310,
+      4398,
+      4471,
+      4541,
+      4850,
+      4855,
+      4998,
+      5255,
+      5307,
+      5328,
+      5411,
+      5466,
+      5494,
+      5541,
+      5593,
+      5633,
+      5789,
+      5901,
+      5938,
+      5963,
+      6020,
+      6064,
+      6084,
+      6117,
+      6325,
+      6326,
+      6392,
+      6461,
+      6462,
+      6471,
+      6603,
+      6623,
+      6746,
+      7076,
+      7154,
+      7185,
+      7355,
+      7387,
+      7416,
+      7454,
+      7590,
+      8866,
+      8983,
+      9182,
+      9328,
+      9331,
+      9339,
+      9415,
+      9596,
+      9597,
+      11281,
+      11853,
+      12225,
+      12342,
+      23856,
+      23933,
+      29745,
+      49355
+    ],
+    "name": "Steins;Gate",
+    "platforms": [
+      9,
+      48,
+      34,
+      6,
+      39,
+      46,
+      38,
+      12
+    ],
+    "player_perspectives": [
+      1,
+      5
+    ],
+    "similar_games": [
+      11394,
+      7364,
+      65764,
+      7842,
+      481,
+      9927,
+      375,
+      538,
+      425,
+      1804
+    ],
+    "storyline": "The story of Steins;Gate takes place in Akihabara and is about a group of friends who have customized their microwave into a device that can send text messages to the past. As they perform different experiments, an organization named SERN who has been doing their own research on time travel tracks them down and now the characters have to find a way to avoid being captured by them.",
+    "summary": "Steins;Gate is a Japanese visual novel developed by 5pb. and Nitroplus. It is the second game in the Science Adventure series following Chaos;Head. The game is described by the development team as a \"hypothetical science ADV\" and explores time and time travel in 2010 Akihabara. The gameplay follows non-linear plot lines which offer branching scenarios with courses of interaction.",
+    "themes": [
+      18,
+      21,
+      22,
+      43
+    ],
+    "total_rating": 86.3592732614234,
+    "total_rating_count": 341
   },
   {
     "id": 7313,
@@ -2382,6 +4185,85 @@
     ],
     "total_rating": 76.103118054184,
     "total_rating_count": 317
+  },
+  {
+    "id": 7334,
+    "first_release_date": 1427155200,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      12,
+      31
+    ],
+    "keywords": [
+      129,
+      159,
+      423,
+      905,
+      1033,
+      1295,
+      1333,
+      2472,
+      2543,
+      4134,
+      4245,
+      4284,
+      4796,
+      4823,
+      4852,
+      4854,
+      4869,
+      4897,
+      4918,
+      4974,
+      5175,
+      5316,
+      5317,
+      5323,
+      5447,
+      5564,
+      6034,
+      6076,
+      6214,
+      6241,
+      6648,
+      10045,
+      15076,
+      17326,
+      29644,
+      39050
+    ],
+    "name": "Bloodborne",
+    "platforms": [
+      48
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      105049,
+      11133,
+      36198,
+      28168,
+      10760,
+      19164,
+      18225,
+      7331,
+      8746,
+      1593
+    ],
+    "summary": "An action RPG in which the player embodies a Hunter who, after being transfused with the mysterious blood local to the city of Yharnam, sets off into a \"night of the Hunt\", an extended night in which Hunters may phase in and out of dream and reality in order to thin the outbreak of abominable beasts that plague the land and, for the more resilient and insightful Hunters, uncover the answers to the Hunt's many mysteries.",
+    "themes": [
+      1,
+      17,
+      19,
+      38
+    ],
+    "total_rating": 91.36336893215967,
+    "total_rating_count": 1795
   },
   {
     "id": 7360,
@@ -2556,8 +4438,8 @@
       21,
       38
     ],
-    "total_rating": 66.61835516779828,
-    "total_rating_count": 174
+    "total_rating": 66.6164705262455,
+    "total_rating_count": 175
   },
   {
     "id": 7886,
@@ -2639,6 +4521,61 @@
     "total_rating_count": 173
   },
   {
+    "id": 8042,
+    "first_release_date": 1770681600,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12,
+      13,
+      16,
+      31,
+      32
+    ],
+    "keywords": [
+      577,
+      816,
+      817,
+      818,
+      1158,
+      1369,
+      2058,
+      4134,
+      4329,
+      4541,
+      5305,
+      5327,
+      5638,
+      8215
+    ],
+    "name": "Mewgenics",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "similar_games": [
+      19150,
+      29348,
+      51945,
+      25311,
+      35994,
+      109339,
+      26574,
+      33153,
+      26145,
+      15409
+    ],
+    "summary": "From the creator of The Binding of Isaac, Super Meat Boy and The End is Nigh comes... Mewgenics! A game where you hoard, breed, train and set cats out on epic adventures through a sprawling world of complete chaos.\nLevel up your team as you venture further and further from your home, collect unique items, defeat epic bosses, gain mutations and return home so you you can breed and further your bloodline, in this turn based legacy roguelike draft sim about cats!",
+    "themes": [
+      27
+    ],
+    "total_rating": 95.01652250017597,
+    "total_rating_count": 27
+  },
+  {
     "id": 8499,
     "first_release_date": 1407456000,
     "game_modes": [
@@ -2693,6 +4630,78 @@
     ],
     "total_rating": 68.27704230676365,
     "total_rating_count": 175
+  },
+  {
+    "id": 8978,
+    "first_release_date": 1314835200,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8,
+      33
+    ],
+    "keywords": [
+      57,
+      1293,
+      2388,
+      4134,
+      4245,
+      4355,
+      4388,
+      4410,
+      4435,
+      4510,
+      4890,
+      4939,
+      5114,
+      5328,
+      5360,
+      7292,
+      7403,
+      11782,
+      45494,
+      51645,
+      51646
+    ],
+    "name": "Jetpack Joyride",
+    "platforms": [
+      73,
+      82,
+      9,
+      48,
+      74,
+      34,
+      6,
+      39,
+      46,
+      38,
+      55
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      56033,
+      7350,
+      55190,
+      6166,
+      58114,
+      28070,
+      28113,
+      55173,
+      11423,
+      2475
+    ],
+    "storyline": "Join Barry Steakfries as he breaks in to a secret laboratory to commandeer the experimental jetpacks from the clutches of science evildoers.",
+    "summary": "Jetpack Joyride is a 2011 side-scrolling endless runner/action video game created by Chief Creative Officer Luke Muscat at Halfbrick Studios. Originally released for iOS devices on the App Store on September 1, 2011, the game has since been ported to many other systems.\n\nThe game features the same protagonist as Monster Dash, Barry Steakfries, who the player controls as he steals a jet pack from a top-secret laboratory. The game has been met with very favorable reviews, and has won numerous awards.",
+    "themes": [
+      1,
+      18,
+      27
+    ],
+    "total_rating": 68.77092835948727,
+    "total_rating_count": 103
   },
   {
     "id": 9254,
@@ -2751,7 +4760,7 @@
       21,
       38
     ],
-    "total_rating": 83.76946896600782,
+    "total_rating": 83.50932502142179,
     "total_rating_count": 575
   },
   {
@@ -2830,8 +4839,112 @@
       1,
       39
     ],
-    "total_rating": 82.25558150263076,
-    "total_rating_count": 86
+    "total_rating": 82.25876573350267,
+    "total_rating_count": 88
+  },
+  {
+    "id": 9607,
+    "first_release_date": 1083110400,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      31,
+      34
+    ],
+    "name": "Clannad",
+    "platforms": [
+      6,
+      55
+    ],
+    "player_perspectives": [
+      5
+    ],
+    "similar_games": [
+      11458,
+      11778,
+      11457,
+      19164,
+      17906,
+      19075,
+      165243,
+      65504,
+      34218,
+      389660
+    ],
+    "storyline": "Tomoya Okazaki is a third year high school student at Hikarizaka Private High School, leading a life full of resentment. His mother passed away in a car accident when he was young, leading his father, Naoyuki, to resort to alcohol and gambling to cope. This resulted in constant fights between the two until Naoyuki dislocated Tomoya\u2019s shoulder. Unable to play on his basketball team, Tomoya began to distance himself from other people. Ever since he has had a distant relationship with his father, naturally becoming a delinquent over time.\n\nWhile on a walk to school, Tomoya meets a strange girl named Nagisa Furukawa, questioning if she likes the school at all. He finds himself helping her, and as time goes by, Tomoya finds his life heading towards a new direction.",
+    "summary": "Clannad follows the life of Tomoya Okazaki, a high school delinquent who meets many people in his last year at school, including five girls, and helps resolve their individual problems.\n\nThe gameplay of Clannad follows a branching plot line which offers pre-determined scenarios with courses of interaction, and focuses on the appeal of the five female main characters by the player character. The game was ranked as the best-selling PC game sold in Japan for the time of its release, and charted in the national top 50 several more times afterwards.",
+    "themes": [
+      27,
+      31,
+      44
+    ],
+    "total_rating": 90.79660830010025,
+    "total_rating_count": 34
+  },
+  {
+    "id": 9761,
+    "first_release_date": 1285891200,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      9,
+      32
+    ],
+    "keywords": [
+      101,
+      137,
+      287,
+      1158,
+      1293,
+      1299,
+      1986,
+      2109,
+      4134,
+      4235,
+      4347,
+      4355,
+      4510,
+      4544,
+      4754,
+      4890,
+      4939,
+      5360,
+      5563,
+      12388
+    ],
+    "name": "Cut the Rope",
+    "platforms": [
+      37,
+      74,
+      34,
+      6,
+      39,
+      159,
+      20
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      55190,
+      56033,
+      55173,
+      16992,
+      28113,
+      378385,
+      25646,
+      76110,
+      86316,
+      24426
+    ],
+    "summary": "Cut the Rope is a series of physics-based puzzle video games developed by ZeptoLab for several platforms and devices. The objective of the Cut the Rope games is to feed candy to a little green creature named Om Nom while collecting stars. In each level, the candy hangs by one or several of the titular ropes which the player must cut with a swipe of their finger using the device's touchscreen. Using various objects such as floating bubbles and bellows, the candy must also be manipulated around obstacles to get to Om Nom's mouth.\n\nEach level pack introduces new challenges. Levels are scored with a zero to three star rating, according to how many stars the player picked up, and a point score depending on the number of stars collected and the amount of time taken to complete the level. Game received multiple award, for example: Apple Design Award 2011, British Academy Video Games Awards 2011 and many others.",
+    "themes": [
+      1
+    ],
+    "total_rating": 75.44751293421353,
+    "total_rating_count": 89
   },
   {
     "id": 9804,
@@ -3064,8 +5177,8 @@
       31,
       43
     ],
-    "total_rating": 93.07311559979448,
-    "total_rating_count": 1075
+    "total_rating": 93.07243617022303,
+    "total_rating_count": 1079
   },
   {
     "id": 10239,
@@ -3140,8 +5253,8 @@
       33,
       38
     ],
-    "total_rating": 68.33830869703579,
-    "total_rating_count": 255
+    "total_rating": 68.44334354517302,
+    "total_rating_count": 256
   },
   {
     "id": 10297,
@@ -3187,6 +5300,81 @@
     ],
     "total_rating": 67.5,
     "total_rating_count": 5
+  },
+  {
+    "id": 11133,
+    "first_release_date": 1458777600,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      12,
+      31
+    ],
+    "keywords": [
+      151,
+      250,
+      537,
+      558,
+      1033,
+      1333,
+      2071,
+      2472,
+      4272,
+      4345,
+      4353,
+      4796,
+      4854,
+      4869,
+      5019,
+      5254,
+      5359,
+      5379,
+      5447,
+      5564,
+      6034,
+      6076,
+      6648,
+      8267,
+      12556,
+      14051,
+      14059,
+      17326,
+      26048,
+      39040,
+      40744
+    ],
+    "name": "Dark Souls III",
+    "platforms": [
+      48,
+      6,
+      49
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      105049,
+      7334,
+      2368,
+      55199,
+      36198,
+      28168,
+      47823,
+      19164,
+      96217,
+      11800
+    ],
+    "storyline": "Set in the Kingdom of Lothric, a bell has rung to signal that the First Flame, responsible for maintaining the Age of Fire, is dying out. As has happened many times before, the coming of the Age of Dark produces the undead: cursed beings that rise after death. The Age of Fire can be prolonged by linking the fire, a ritual in which great lords and heroes sacrifice their souls to rekindle the First Flame. However, Prince Lothric, the chosen linker for this age, abandoned his duty and decided to watch the flame die from afar. The bell is the last hope for the Age of Fire, resurrecting previous Lords of Cinder (heroes who linked the flame in past ages) to attempt to link the fire again; however, all but one Lord shirk their duty. Meanwhile, Sulyvahn, a sorcerer from the Painted World of Ariandel, wrongfully proclaims himself Pontiff and seizes power over Irithyll of the Boreal Valley and the returning Anor Londo cathedral from Dark Souls as a tyrant.\n\nThe Ashen One, an Undead who failed to become a Lord of Cinder and thus called an Unkindled, rises and must link the fire by returning Prince Lothric and the defiant Lords of Cinder to their thrones in Firelink Shrine. The Lords include the Abyss Watchers, a legion of warriors sworn by the Old Wolf's Blood which linked their souls into one to protect the land from the Abyss and ultimately locked in an endless battle between each other; Yhorm the Giant, who sacrificed his life for a nation conquered by his ancestor; and Aldrich, who became a Lord of Cinder despite his ravenous appetite for both men and gods. Lothric was raised to link the First Flame but neglected his duties and chose to watch the fire fade instead.\n\nOnce the Ashen One succeeds in returning Lothric and the Lords of Cinder to their thrones, they travel to the ruins of the Kiln of the First Flame. There, they encounter the Soul of Cinder, an amalgamation of all the former Lords of Cinder. Upon defeat, the player can attempt to link the fire or access three other optional endings unlocked by the player's in-game decisions. These include summoning the Fire Keeper to extinguish the flame and begin an age of Dark or killing her in a sudden change of heart. A fourth ending consists of the Ashen One taking the flame for their own, becoming the Lord of Hollows.",
+    "summary": "Dark Souls III is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. Released in March 2016, it is the fourth entry in the Souls series and the final instalment in the Dark Souls trilogy. Set in the decaying kingdom of Lothric, players take on the role of the \"Ashen One,\" an undead warrior tasked with rekindling the First Flame to prevent the world from falling into darkness.\n\nThe game features challenging combat, intricate level design, and a deep, lore-rich narrative.",
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 86.64098886095837,
+    "total_rating_count": 1876
   },
   {
     "id": 11198,
@@ -3277,8 +5465,153 @@
       1,
       18
     ],
-    "total_rating": 85.20888965480054,
-    "total_rating_count": 1198
+    "total_rating": 85.13882766845376,
+    "total_rating_count": 1200
+  },
+  {
+    "id": 11397,
+    "first_release_date": 1426118400,
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      12,
+      13,
+      25,
+      31
+    ],
+    "keywords": [
+      54,
+      61,
+      128,
+      221,
+      274,
+      284,
+      472,
+      729,
+      757,
+      889,
+      982,
+      1011,
+      1033,
+      1186,
+      1567,
+      1669,
+      3234,
+      4134,
+      4245,
+      4282,
+      4674,
+      4768,
+      4852,
+      4891,
+      4998,
+      5425,
+      5542,
+      5545,
+      5792,
+      5823,
+      7080,
+      7294,
+      8150,
+      9222,
+      9835,
+      10167,
+      23933,
+      26248,
+      38887,
+      45061
+    ],
+    "name": "Yakuza 0",
+    "platforms": [
+      9,
+      48,
+      6,
+      49
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      109274,
+      11156,
+      26574,
+      11423,
+      36198,
+      17379,
+      19441,
+      19164,
+      12527,
+      733
+    ],
+    "summary": "Yakuza 0 is an action-adventure game developed by Ryu Ga Gotoku Studio and published by Sega. Serving as a prequel to the Yakuza series, it is set in 1988 Japan during the country's economic bubble era. The game follows two protagonists: Kazuma Kiryu in Tokyo's Kamurocho district and Goro Majima in Osaka's Sotenbori district. Players alternate between their stories as they navigate the criminal underworld, engaging in street fights, managing businesses, and participating in various side activities.\n\nThe gameplay combines beat 'em up combat with open-world exploration, offering numerous mini-games and side quests. Yakuza 0 was initially released for PlayStation 3 and PlayStation 4 in Japan in March 2015, followed by a worldwide release on PlayStation 4 in January 2017. It later became available on Windows via Steam in August 2018 and on Xbox One in February 2020. A Director's Cut version is scheduled for release on Nintendo Switch 2 on June 5, 2025.",
+    "themes": [
+      1,
+      31,
+      38
+    ],
+    "total_rating": 86.163582243609,
+    "total_rating_count": 508
+  },
+  {
+    "id": 11445,
+    "first_release_date": 1385596800,
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      4,
+      34
+    ],
+    "keywords": [
+      78,
+      215,
+      1105,
+      1705,
+      4241,
+      4710,
+      4726,
+      5396,
+      5397,
+      5398,
+      5399,
+      5400,
+      26965
+    ],
+    "name": "Persona 4 Arena Ultimax",
+    "platforms": [
+      52,
+      9,
+      48,
+      6,
+      12,
+      130
+    ],
+    "player_perspectives": [
+      4,
+      5
+    ],
+    "similar_games": [
+      36732,
+      57372,
+      76852,
+      119156,
+      57296,
+      24426,
+      89550,
+      14704,
+      5650,
+      101608
+    ],
+    "storyline": "The story is a continuation of the events depicted in Persona 4 Arena and begins the day after the previous game concludes, meaning Arena Ultimax is also set in May 2012.\n\nThe Midnight Channel is back on the air and once again broadcasts a strange advertisement for another fighting tournament christened P-1 Climax, also known as Operation: World Destruction, that shows members of the Investigation Team and the Shadow Operatives in combat. Just moments after this, Inaba is subject to a power outage and is engulfed by a bizarre red fog. Furthermore, figures that look suspiciously like Mitsuru Kirijo, Aigis and Akihiko Sanada being crucified are shown on TV. While the Investigation Team attempts to figure out what's going on, Junpei Iori and Rise Kujikawa becomes trapped in the red fog, while Labrys, Ken Amada, Koromaru and Yukari Takeba ride on a helicopter to see the fog engulf Inaba.",
+    "summary": "Persona 4 Arena Ultimax is a fighting video game developed by Arc System Works and Atlus. It is the direct sequel to Persona 4 Arena, which is itself a follow-up to the role-playing game Persona 4. The game was originally released in Japanese arcades on November 28, 2013, and later ported to home consoles. Unlike the previous game, it is not region locked.",
+    "themes": [
+      1
+    ],
+    "total_rating": 78.34658218361791,
+    "total_rating_count": 49
   },
   {
     "id": 11507,
@@ -3490,8 +5823,234 @@
       1,
       18
     ],
-    "total_rating": 74.4459589641802,
-    "total_rating_count": 236
+    "total_rating": 75.02828781581874,
+    "total_rating_count": 242
+  },
+  {
+    "id": 12515,
+    "first_release_date": 1467763200,
+    "game_modes": [
+      1,
+      5
+    ],
+    "genres": [
+      12,
+      13
+    ],
+    "keywords": [
+      249,
+      451,
+      1834,
+      4134,
+      4260,
+      4400,
+      4879,
+      5215,
+      5254,
+      7313,
+      7741,
+      7742,
+      8356,
+      8362,
+      8399,
+      8518,
+      8581,
+      9676,
+      12556,
+      14051,
+      14088,
+      14089,
+      34315,
+      39019,
+      39020
+    ],
+    "name": "Pok\u00e9mon Go",
+    "platforms": [
+      34,
+      39
+    ],
+    "player_perspectives": [
+      2,
+      3,
+      4
+    ],
+    "similar_games": [
+      19164,
+      113360,
+      26574,
+      81249,
+      18099,
+      36198,
+      22387,
+      14394,
+      17548,
+      19150
+    ],
+    "summary": "Travel between the real world and the virtual world of Pok\u00e9mon with Pok\u00e9mon Go for iPhone and Android devices! With Pok\u00e9mon Go, you'll discover Pok\u00e9mon in a whole new world, your own! Join Trainers across the globe who are discovering Pok\u00e9mon as they explore the world around them.",
+    "themes": [
+      1,
+      17,
+      38
+    ],
+    "total_rating": 64.56215581110015,
+    "total_rating_count": 494
+  },
+  {
+    "id": 12517,
+    "first_release_date": 1442275200,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      9,
+      12,
+      16,
+      31,
+      32
+    ],
+    "keywords": [
+      126,
+      131,
+      223,
+      288,
+      413,
+      415,
+      844,
+      911,
+      1151,
+      1289,
+      1305,
+      1313,
+      1387,
+      1511,
+      1539,
+      1705,
+      1780,
+      1921,
+      2425,
+      2426,
+      2712,
+      3403,
+      3486,
+      3534,
+      4074,
+      4162,
+      4284,
+      4398,
+      4407,
+      4541,
+      4850,
+      4867,
+      5018,
+      5697,
+      5963,
+      7080,
+      7105,
+      17601,
+      24875,
+      27054,
+      27613,
+      29034,
+      38292
+    ],
+    "name": "Undertale",
+    "platforms": [
+      48,
+      3,
+      6,
+      14,
+      46,
+      49,
+      130
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "similar_games": [
+      221667,
+      26226,
+      235682,
+      18182,
+      36198,
+      22387,
+      23733,
+      3222,
+      111253,
+      102420
+    ],
+    "storyline": "\"A long time ago, two races ruled peacefully over the Earth: HUMANS and MONSTERS. One day, a terrible war broke out between the two races. After a long battle, the humans were victorious. They sealed the monsters underground with a magical spell.\n\nIn the year 201X, a small child scales Mt. Ebott. It is said that those who climb the mountain never return.\n\nSeeking refuge from the rainy weather, the child enters a cave and discovers an enormous hole.\n\nMoving closer to get a better look... the child falls in.\n\nNow, our story begins.\"",
+    "summary": "A small child falls into the Underground, where monsters have long been banished by humans and are hunting every human that they find. The player controls the child as they try to make it back to the Surface through hostile environments, all the while engaging with a turn-based combat system with puzzle-solving and bullet hell elements, as well as other unconventional game mechanics.",
+    "themes": [
+      17,
+      19,
+      27,
+      31
+    ],
+    "total_rating": 91.17821584655978,
+    "total_rating_count": 1853
+  },
+  {
+    "id": 12571,
+    "first_release_date": 1486425600,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      12,
+      25,
+      31
+    ],
+    "keywords": [
+      61,
+      129,
+      164,
+      175,
+      253,
+      1061,
+      1910,
+      1971,
+      4239,
+      4768,
+      5142,
+      5200,
+      5308,
+      5638,
+      6699,
+      12087,
+      12424,
+      12556,
+      39005
+    ],
+    "name": "Nioh",
+    "platforms": [
+      9,
+      48
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      105049,
+      103168,
+      96217,
+      19164,
+      106987,
+      55038,
+      54775,
+      5867,
+      55199,
+      27092
+    ],
+    "summary": "In Nioh, players will traverse war-torn Japan as William, a blonde-haired swordsman whose background as a fierce warrior and seasoned knowledge of the blade allows him to survive in the demon-plagued land of the samurai. Known as Yokai, these demons inhabit a number of dangerous locations and lie in wait in the shadows to ambush unsuspecting victims. Players will also face off with other samurai in supernatural sword battles and intense, multi-target engagements offering a level of difficulty that will truly test even the most hardened samurai\u2019s skills, patience, and strategy.\n\nOffering a deep and original storyline that takes place during the Warring States Period of Japanese history alongside strategic sword-fighting action, Nioh will challenge players in a way that makes every mission and accomplishment feel earned and worthwhile.",
+    "themes": [
+      1,
+      17,
+      22
+    ],
+    "total_rating": 83.56886255615953,
+    "total_rating_count": 199
   },
   {
     "id": 12596,
@@ -3556,6 +6115,55 @@
     ],
     "total_rating": 74.23804346124554,
     "total_rating_count": 39
+  },
+  {
+    "id": 13460,
+    "first_release_date": 1316649600,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      9
+    ],
+    "keywords": [
+      1158,
+      2109,
+      3831,
+      4134,
+      4484,
+      4510,
+      4719,
+      5656,
+      6541
+    ],
+    "name": "Where's My Water?",
+    "platforms": [
+      74,
+      34,
+      6,
+      39
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      28113,
+      61936,
+      55190,
+      55173,
+      56033,
+      27419,
+      19082,
+      76110,
+      9446,
+      28472
+    ],
+    "summary": "Where's My Water? is a puzzle video game developed by American studio Creature Feep where the players have to route a supply of water to the alligator Swampy.",
+    "themes": [
+      40
+    ],
+    "total_rating": 77.06612329835893,
+    "total_rating_count": 32
   },
   {
     "id": 14593,
@@ -3644,8 +6252,8 @@
       1,
       17
     ],
-    "total_rating": 91.58972566090357,
-    "total_rating_count": 2100
+    "total_rating": 91.58640803765923,
+    "total_rating_count": 2108
   },
   {
     "id": 15279,
@@ -3753,8 +6361,55 @@
       33,
       39
     ],
-    "total_rating": 50.96291324992637,
-    "total_rating_count": 286
+    "total_rating": 50.87994156318078,
+    "total_rating_count": 287
+  },
+  {
+    "id": 15707,
+    "first_release_date": 1451865600,
+    "game_modes": [
+      2
+    ],
+    "genres": [
+      11,
+      15,
+      24,
+      35
+    ],
+    "keywords": [
+      77,
+      151,
+      25826,
+      27510
+    ],
+    "name": "Clash Royale",
+    "platforms": [
+      34,
+      39
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "similar_games": [
+      119188,
+      30229,
+      119156,
+      36553,
+      13196,
+      77597,
+      28794,
+      107218,
+      113201,
+      27092
+    ],
+    "storyline": "Lead the Clash Royale Family to victory!",
+    "summary": "Enter the Arena! Clash Royale is a real-time multiplayer game starring the Royales, your favorite Clash characters and much, much more. Collect and upgrade dozens of cards featuring the Clash of Clans troops, spells and defenses you know and love, as well as the Royales: Princes, Knights, Baby Dragons and more. Knock the enemy King and Princesses from their towers to defeat your opponents and win Trophies, Crowns and glory in the Arena. Form a Clan to share cards and build your very own battle community.",
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 74.51651420968103,
+    "total_rating_count": 197
   },
   {
     "id": 16287,
@@ -3814,8 +6469,8 @@
       18,
       38
     ],
-    "total_rating": 76.31984810637223,
-    "total_rating_count": 236
+    "total_rating": 76.32087910704527,
+    "total_rating_count": 238
   },
   {
     "id": 17000,
@@ -3945,8 +6600,8 @@
       33,
       44
     ],
-    "total_rating": 88.36659319658017,
-    "total_rating_count": 1727
+    "total_rating": 88.45536647143288,
+    "total_rating_count": 1734
   },
   {
     "id": 18088,
@@ -4050,6 +6705,54 @@
     "total_rating_count": 37
   },
   {
+    "id": 19320,
+    "first_release_date": 1475798400,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      2,
+      13,
+      15,
+      31,
+      32
+    ],
+    "keywords": [
+      4134,
+      4609,
+      5176,
+      37089
+    ],
+    "name": "Five Nights at Freddy's: Sister Location",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "similar_games": [
+      26574,
+      24765,
+      25311,
+      109339,
+      35994,
+      114455,
+      51945,
+      111130,
+      19301,
+      26145
+    ],
+    "storyline": "Mike is hired by Circus Baby's Entertainment and Rental, an underground facility storing animatronics from the closed Circus Baby's Pizza World. The facility's AI, HandUnit, greets Mike each night and assigns him maintenance tasks. On the first night, everything runs smoothly: using elevated control pads, Mike checks on and, if necessary, administers electric shocks to the three animatronics\u2014Ballora, Funtime Foxy, and Circus Baby\u2014to ensure they remain active, before leaving. On the second night, the power goes out, the animatronics come to life, and Circus Baby warns Mike of the danger posed by the other animatronics. She instructs him across Ballora Gallery and assists him in resetting the circuit breakers. On the third night, after performing maintenance work on Funtime Freddy, Mike is attacked by Funtime Foxy and is placed in a springlock suit by Circus Baby for his protection, from which he must escape while repelling Minireenas on the fourth night.\n\nOn the fifth night, Mike discovers two hanged technicians in the location where the animatronics should be, preventing HandUnit from detecting their absence. Circus Baby directs Mike to dismantle her empty shell in the Scooping Room, where the animatronics' endoskeletons are extracted, explaining that this is necessary to \"save what is good so the rest can be destroyed.\" However, she warns him that he is being pursued by the animatronic Ballora, who intends to kill him. Between nights, Mike watches an animated sitcom at home. Elizabeth, William Afton's daughter begging him to play with Circus Baby, despite her father's insistence that she must stay away.",
+    "summary": "Welcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those other pizza places! With cutting-edge animatronic entertainers that will knock your kids' socks off, as well as customized pizza catering, no party is complete without Circus Baby and the gang!\n\nNow hiring: Late night technician. Must enjoy cramped spaces and be comfortable around active machinery. Not responsible for death or dismemberment.",
+    "themes": [
+      1,
+      19,
+      21
+    ],
+    "total_rating": 73.06987888351016,
+    "total_rating_count": 69
+  },
+  {
     "id": 19404,
     "first_release_date": 1485475200,
     "game_modes": [
@@ -4085,6 +6788,228 @@
     ],
     "total_rating": 65.55872443277454,
     "total_rating_count": 5
+  },
+  {
+    "id": 19531,
+    "first_release_date": 1493856000,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      9,
+      12,
+      31
+    ],
+    "keywords": [
+      3,
+      21,
+      98,
+      129,
+      250,
+      274,
+      488,
+      510,
+      962,
+      974,
+      1033,
+      1158,
+      1313,
+      1345,
+      1423,
+      1697,
+      1881,
+      1903,
+      3203,
+      3931,
+      4004,
+      4138,
+      4213,
+      4270,
+      4287,
+      4345,
+      4352,
+      4357,
+      4359,
+      4390,
+      4397,
+      4578,
+      4580,
+      4614,
+      4623,
+      4637,
+      4850,
+      4854,
+      4891,
+      4897,
+      4984,
+      4993,
+      4999,
+      5029,
+      5176,
+      5181,
+      5182,
+      5210,
+      5257,
+      5260,
+      5277,
+      5345,
+      5408,
+      5449,
+      5651,
+      5673,
+      5703,
+      5792,
+      5821,
+      5905,
+      5963,
+      5971,
+      5989,
+      6313,
+      6621,
+      6623,
+      6779,
+      7007,
+      7397,
+      7423,
+      7475,
+      7498,
+      7603,
+      8099,
+      9045,
+      12087,
+      12556,
+      14051,
+      17092,
+      23856,
+      23933,
+      26048,
+      39005,
+      39050,
+      40744
+    ],
+    "name": "Prey",
+    "platforms": [
+      48,
+      6,
+      49
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "similar_games": [
+      9498,
+      9727,
+      11118,
+      533,
+      7351,
+      571,
+      3188,
+      10919,
+      19562,
+      41
+    ],
+    "summary": "In Prey, you awaken aboard Talos I, a space station orbiting the moon in the year 2032. You are the key subject of an experiment meant to alter humanity forever \u2013 but things have gone terribly wrong. The space station has been overrun by hostile aliens and you are now being hunted. As you dig into the dark secrets of Talos I and your own past, you must survive using the tools found on the station, your wits, weapons, and mind-bending abilities.",
+    "themes": [
+      1,
+      18,
+      19,
+      21,
+      23
+    ],
+    "total_rating": 78.01606866850105,
+    "total_rating_count": 686
+  },
+  {
+    "id": 19902,
+    "first_release_date": 1348704000,
+    "game_modes": [
+      1,
+      6
+    ],
+    "genres": [
+      9
+    ],
+    "keywords": [
+      101,
+      4247
+    ],
+    "name": "Bad Piggies",
+    "platforms": [
+      73,
+      74,
+      34,
+      6,
+      39,
+      14
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      95776,
+      87507,
+      19222,
+      25905,
+      90788,
+      41349,
+      10603,
+      88511,
+      90839,
+      398175
+    ],
+    "summary": "Bad Piggies is a puzzle video game and a spin-off to Angry Birds. Unlike previous games in the series, in this entry the player controls the pigs, building devices that travel on land and air to find pieces of a map to find the Angry Birds' eggs The objective of the game is to build a contraption that transports the pig from a starting point to the finish line, usually indicated by a map. Such contraptions are made of wood and iron as well as other objects such as wheels, soda bottles, umbrellas (to increase air resistance), motors, fans, TNT, and balloons.",
+    "total_rating": 71.65580839967882,
+    "total_rating_count": 43
+  },
+  {
+    "id": 20744,
+    "first_release_date": 1351555200,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12,
+      31
+    ],
+    "keywords": [
+      983,
+      4357,
+      16826,
+      38695
+    ],
+    "name": "\u014ckami HD",
+    "platforms": [
+      9,
+      48,
+      6,
+      49,
+      130
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      19164,
+      27092,
+      106987,
+      96217,
+      28168,
+      81249,
+      55038,
+      55199,
+      103168,
+      34155
+    ],
+    "summary": "Experience the critically acclaimed masterpiece with its renowned Sumi-e ink art style in breathtaking high resolution. Take on the role of Amaterasu, the Japanese sun goddess who inhabits the form of a legendary white wolf, on a quest to defeat Orochi, an eight-headed demon and tyrannical monster responsible for turning the world of Nippon into a ruined wasteland.",
+    "themes": [
+      1,
+      17,
+      22,
+      27
+    ],
+    "total_rating": 89.86750854081768,
+    "total_rating_count": 124
   },
   {
     "id": 25076,
@@ -4178,8 +7103,8 @@
       31,
       38
     ],
-    "total_rating": 93.63681139705525,
-    "total_rating_count": 3562
+    "total_rating": 93.60009047688719,
+    "total_rating_count": 3580
   },
   {
     "id": 25657,
@@ -4335,6 +7260,82 @@
     "total_rating_count": 126
   },
   {
+    "id": 26226,
+    "first_release_date": 1516838400,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8,
+      31,
+      32
+    ],
+    "keywords": [
+      72,
+      126,
+      158,
+      288,
+      744,
+      905,
+      962,
+      1387,
+      1697,
+      1705,
+      1710,
+      1780,
+      1912,
+      2093,
+      2426,
+      3403,
+      3749,
+      4134,
+      4154,
+      4527,
+      5411,
+      12083,
+      23856,
+      24875,
+      25831,
+      39029,
+      39049,
+      47174,
+      49437
+    ],
+    "name": "Celeste",
+    "platforms": [
+      170,
+      48,
+      3,
+      6,
+      14,
+      49,
+      130
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      18182,
+      36198,
+      55190,
+      3222,
+      23733,
+      56033,
+      28070,
+      22387,
+      111253,
+      19150
+    ],
+    "storyline": "Set on a fictional version of Mount Celeste, it follows a young woman named Madeline who attempts to climb the mountain, and must face her inner demons in her quest to reach the summit.",
+    "summary": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 89.02465597453502,
+    "total_rating_count": 1413
+  },
+  {
     "id": 26472,
     "first_release_date": 1571097600,
     "game_modes": [
@@ -4416,8 +7417,8 @@
       31,
       43
     ],
-    "total_rating": 91.06021614864916,
-    "total_rating_count": 1109
+    "total_rating": 91.05776725350248,
+    "total_rating_count": 1118
   },
   {
     "id": 26602,
@@ -4474,8 +7475,96 @@
       1,
       17
     ],
-    "total_rating": 90.5325505891382,
-    "total_rating_count": 91
+    "total_rating": 90.52818983352668,
+    "total_rating_count": 95
+  },
+  {
+    "id": 26758,
+    "first_release_date": 1509062400,
+    "game_modes": [
+      1,
+      3
+    ],
+    "genres": [
+      8,
+      31
+    ],
+    "keywords": [
+      87,
+      138,
+      250,
+      902,
+      1065,
+      1935,
+      2071,
+      2155,
+      2229,
+      2231,
+      2324,
+      3014,
+      4154,
+      4221,
+      4239,
+      4266,
+      4297,
+      4438,
+      4465,
+      4473,
+      4731,
+      4777,
+      4787,
+      4869,
+      4940,
+      7241,
+      7243,
+      7536,
+      7576,
+      8267,
+      9364,
+      12083,
+      12087,
+      12556,
+      29960,
+      39007,
+      39011,
+      39019,
+      39020,
+      39024,
+      39049,
+      40736,
+      44289,
+      44592
+    ],
+    "name": "Super Mario Odyssey",
+    "platforms": [
+      508,
+      130
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      19565,
+      11156,
+      7346,
+      7331,
+      1074,
+      36926,
+      26761,
+      19164,
+      17548,
+      1905
+    ],
+    "storyline": "Bowser has kidnapped Princess Peach once again, but this time, he plans to force her into a royal wedding! Mario sets off on a globe-trotting adventure beyond the Mushroom Kingdom, teaming up with Cappy, a mysterious hat-shaped spirit from the Cap Kingdom whose sister Tiara was also taken by Bowser.\n\nTogether, they travel across vast and colorful kingdoms aboard the airship Odyssey, collecting Power Moons to fuel their journey. Using Cappy\u2019s powers, Mario can \u201ccapture\u201d enemies, objects, and creatures to gain their abilities, from a Goomba stack to a mighty T-Rex.\n\nFrom the bustling streets of New Donk City to the frozen peaks of the Snow Kingdom, Mario and Cappy must chase Bowser across the world to stop his forced wedding and rescue Peach and Tiara before it\u2019s too late.",
+    "summary": "Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities, like the power to capture and control objects, animals, and enemies to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser\u2019s wedding plans!",
+    "themes": [
+      1,
+      17,
+      33,
+      38
+    ],
+    "total_rating": 92.86389000739129,
+    "total_rating_count": 1808
   },
   {
     "id": 26820,
@@ -4567,8 +7656,8 @@
       17,
       19
     ],
-    "total_rating": 79.36862184126085,
-    "total_rating_count": 305
+    "total_rating": 79.14674556339129,
+    "total_rating_count": 306
   },
   {
     "id": 26845,
@@ -4616,8 +7705,8 @@
       17,
       39
     ],
-    "total_rating": 89.48184213956606,
-    "total_rating_count": 322
+    "total_rating": 89.48252501838775,
+    "total_rating_count": 323
   },
   {
     "id": 27082,
@@ -4738,8 +7827,8 @@
       1,
       39
     ],
-    "total_rating": 73.22390115647102,
-    "total_rating_count": 609
+    "total_rating": 73.22415533174451,
+    "total_rating_count": 611
   },
   {
     "id": 28489,
@@ -4839,8 +7928,8 @@
       18,
       21
     ],
-    "total_rating": 85.36976881547042,
-    "total_rating_count": 253
+    "total_rating": 85.55181622053499,
+    "total_rating_count": 254
   },
   {
     "id": 30132,
@@ -4964,6 +8053,66 @@
     "total_rating_count": 74
   },
   {
+    "id": 31551,
+    "first_release_date": 1687392000,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12,
+      31
+    ],
+    "keywords": [
+      521,
+      840,
+      1624,
+      2242,
+      3486,
+      4287,
+      4918,
+      5612,
+      6648,
+      12103,
+      23306,
+      23933,
+      38828,
+      39023,
+      39034,
+      39038,
+      39040,
+      43599
+    ],
+    "name": "Final Fantasy XVI",
+    "platforms": [
+      169,
+      6,
+      167
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      105049,
+      22387,
+      96217,
+      106987,
+      19164,
+      55038,
+      55199,
+      81249,
+      27092,
+      24426
+    ],
+    "storyline": "The sun is setting upon the land of Valisthea.\n\nFor centuries, people have flocked to her Mothercrystals to partake of their blessing\u2014the abundant aether that fuels the magicks they rely upon in their everyday lives. As the aether begins to fade and the lifeless deadlands spread ever further, so too does the struggle for possession of the final flickers of the Mothers' light grow ever more fierce.\n\nYet amidst the gathering storm, there are those who believe that the legacy of the crystals has shaped mankind's destiny for long enough.",
+    "summary": "A single-player action RPG set in a high-fantasy world where warring nations and powerful summoned Eikons shape political intrigue and personal vengeance. Players control Clive, a former shield bearer whose life is upended by tragedy. Engage in fast-paced, tactical real-time combat that blends heavy weapons, Eikon-driven abilities, and cinematic set pieces.\nDeeply narrative-driven, the game emphasizes character development, expansive locales to explore, and dramatic boss encounters while offering layered combat customization through combos, parries, and skill upgrades.",
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 87.47305524373678,
+    "total_rating_count": 200
+  },
+  {
     "id": 36911,
     "first_release_date": 1516924800,
     "game_modes": [
@@ -5021,7 +8170,136 @@
       18
     ],
     "total_rating": 85.30928939979383,
-    "total_rating_count": 239
+    "total_rating_count": 240
+  },
+  {
+    "id": 37135,
+    "first_release_date": 1553817600,
+    "game_modes": [
+      1,
+      3
+    ],
+    "genres": [
+      8
+    ],
+    "keywords": [
+      87,
+      1059,
+      2165,
+      4176,
+      39019
+    ],
+    "name": "Yoshi's Crafted World",
+    "platforms": [
+      130
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      20342,
+      55173,
+      24426,
+      12539,
+      55190,
+      28070,
+      56033,
+      115276,
+      89597,
+      37001
+    ],
+    "summary": "Lead Yoshi on a brand new adventure that will turn everything you've come to expect from side-scrolling games upside down! Explore a great, big world decorated like a miniature diorama in a new art style for the franchise, where each side-scrolling stage has the traditional front side as well as a flip side with different views and surprises. Look for items throughout the stage as Yoshi makes his way to the goal. You can even join up with a friend!",
+    "themes": [
+      1
+    ],
+    "total_rating": 78.26818181593107,
+    "total_rating_count": 62
+  },
+  {
+    "id": 38946,
+    "first_release_date": 1478304000,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      4,
+      8,
+      31
+    ],
+    "keywords": [
+      687,
+      2152,
+      2387,
+      4134,
+      4492,
+      5523,
+      5804
+    ],
+    "name": "Dan the Man",
+    "platforms": [
+      132,
+      34,
+      39
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      55173,
+      55190,
+      56033,
+      19150,
+      19164,
+      87622,
+      24426,
+      20342,
+      28070,
+      101608
+    ],
+    "summary": "Halfbrick Studios, the creators of Fruit Ninja and Jetpack Joyride, go back to their N64 roots to bring you an action platformer like no other. Featuring a Mario-like hero, weapons that go boom and action that hits you like a slug to the chest, Dan The Man is the genesis of a new style of mobile game.\n\nPlay your way in Story Mode, Endless Survival Mode and Battle Mode to unlock costumes and upgrades and use arcade style controls to defeat super difficult bosses that will make you shake like jelly!\n\nEver wish you could take your favorite arcade game on the bus, train, plane or to the beach? Well now you can!\n\nDownload Dan The Man, the best retro arcade action game on mobile now.",
+    "themes": [
+      1,
+      27
+    ],
+    "total_rating": 59.66360193289111,
+    "total_rating_count": 14
+  },
+  {
+    "id": 39188,
+    "first_release_date": 1371081600,
+    "genres": [
+      8,
+      10,
+      33
+    ],
+    "keywords": [
+      51647
+    ],
+    "name": "Despicable Me: Minion Rush",
+    "platforms": [
+      74,
+      34,
+      6,
+      39
+    ],
+    "similar_games": [
+      56033,
+      119207,
+      27378,
+      114475,
+      43367,
+      110503,
+      96452,
+      87728,
+      51485,
+      117311
+    ],
+    "summary": "Race with the Minions in the award-winning, fan-favorite runner, Minion Rush!\nRun as fast as you can while jumping, dodging, rolling and knocking Minions off the track in despicably action-packed levels.\nRush to collect Bananas and play exciting Special Missions to increase your score as you enjoy unexpected Minion moments.",
+    "themes": [
+      1
+    ],
+    "total_rating": 61.13845327249942,
+    "total_rating_count": 25
   },
   {
     "id": 52826,
@@ -5119,8 +8397,52 @@
     "themes": [
       17
     ],
-    "total_rating": 78.39296600970931,
+    "total_rating": 77.54025162460462,
     "total_rating_count": 75
+  },
+  {
+    "id": 55945,
+    "first_release_date": 1544572800,
+    "game_modes": [
+      2,
+      3
+    ],
+    "genres": [
+      5,
+      15,
+      36
+    ],
+    "keywords": [
+      286,
+      982,
+      17371
+    ],
+    "name": "Brawl Stars",
+    "platforms": [
+      34,
+      39
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "similar_games": [
+      68855,
+      119177,
+      19549,
+      34024,
+      119156,
+      106805,
+      8422,
+      36553,
+      19164,
+      28751
+    ],
+    "summary": "Fast-paced 3v3 multiplayer and battle royale made for mobile! Play with friends or solo across a variety of game modes in under three minutes.",
+    "themes": [
+      1
+    ],
+    "total_rating": 37.59144591009602,
+    "total_rating_count": 100
   },
   {
     "id": 57268,
@@ -5166,6 +8488,87 @@
     ],
     "total_rating": 70.0,
     "total_rating_count": 0
+  },
+  {
+    "id": 57759,
+    "first_release_date": 1462924800,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8
+    ],
+    "name": "Leap Day",
+    "platforms": [
+      34,
+      39
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      55752,
+      393933,
+      393128,
+      391274,
+      389416,
+      388468,
+      388305,
+      388295,
+      388053,
+      387482
+    ],
+    "summary": "Leap Day is a fast paced action platformer with a brand new level every day!"
+  },
+  {
+    "id": 59746,
+    "first_release_date": 1320105600,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      15
+    ],
+    "keywords": [
+      175,
+      902,
+      3630,
+      4134,
+      4232,
+      4247,
+      4292,
+      4329,
+      5359,
+      6874
+    ],
+    "name": "The Battle Cats",
+    "platforms": [
+      37,
+      34,
+      39,
+      130
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      51945,
+      17130,
+      19376,
+      3700,
+      28213,
+      33153,
+      19083,
+      15409,
+      21564,
+      21642
+    ],
+    "summary": "The Battle Cats is a tower defense mobile game. The cats must face fearsome enemies, such as Doge the dog, Gory the Gorilla, and H. Nah the Hyena.",
+    "themes": [
+      27
+    ],
+    "total_rating": 77.76640306288287,
+    "total_rating_count": 25
   },
   {
     "id": 59843,
@@ -5272,8 +8675,8 @@
       31,
       38
     ],
-    "total_rating": 90.31952245831474,
-    "total_rating_count": 1018
+    "total_rating": 90.32234672272821,
+    "total_rating_count": 1024
   },
   {
     "id": 76074,
@@ -5308,6 +8711,54 @@
     "summary": "In Dominions 5 you take control of a powerful being that rules a nation and aspires to godhood. The type of Pretender Gods can vary from magically powerful arch mages to huge titans or large monuments. \nDominions is a deep 4x turn based strategy game with a very large variety of spells and units.",
     "total_rating": 80.0,
     "total_rating_count": 2
+  },
+  {
+    "id": 76888,
+    "first_release_date": 1666915200,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      25,
+      31
+    ],
+    "keywords": [
+      962,
+      982,
+      2071,
+      4239,
+      12087,
+      39006,
+      39050
+    ],
+    "name": "Bayonetta 3",
+    "platforms": [
+      130
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      19164,
+      55038,
+      103168,
+      47823,
+      76253,
+      105049,
+      106987,
+      96217,
+      54775,
+      5867
+    ],
+    "storyline": "Bayonetta, the enchanting witch who\u2019s dressed to kill with her hand-and-foot guns, dominates angel and demon alike with action that is, to put it simply, beautiful.\n\nMysterious life forms appearing to be neither angel nor demon attack amid the ravaged streets of the Shibuya area of Tokyo, where Bayonetta then makes a graceful appearance. Why is she in Tokyo? And how far-reaching is the invasion of this new enemy?\n\nSee new gameplay elements like Demon Masquerade, where Bayonetta fuses with an Infernal Demon to wield even more formidable magic power, and Demon Slave, which lets Bayonetta control Infernal Demons at will to obliterate enemies.",
+    "summary": "You\u2019ve waited long enough. The witch. Is. Back! A new-look Bayonetta returns to battle foes with her signature Witch Time! This time, she\u2019ll wield her new Demon Masquerade ability to channel the power of demons and engage in larger-than-life action.",
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 85.91063971037194,
+    "total_rating_count": 50
   },
   {
     "id": 83731,
@@ -5610,8 +9061,8 @@
       18,
       40
     ],
-    "total_rating": 86.57328170274805,
-    "total_rating_count": 931
+    "total_rating": 86.57200103807345,
+    "total_rating_count": 936
   },
   {
     "id": 90558,
@@ -5707,6 +9158,116 @@
     "total_rating_count": 80
   },
   {
+    "id": 96032,
+    "first_release_date": 1476403200,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      12,
+      25,
+      31,
+      34
+    ],
+    "keywords": [
+      78,
+      345,
+      2385,
+      7545,
+      25210
+    ],
+    "name": "Honkai Impact 3rd",
+    "platforms": [
+      34,
+      6,
+      39
+    ],
+    "player_perspectives": [
+      2,
+      4
+    ],
+    "similar_games": [
+      55038,
+      114009,
+      27092,
+      103168,
+      24426,
+      27209,
+      28010,
+      106987,
+      96217,
+      54775
+    ],
+    "storyline": "Honkai Impact 3rd is set in an alternate version of Earth, plagued by catastrophes resulting from \"Honkai\" (roughly translates to \"the collapse\"). Honkai is largely viewed as a malevolent force with a will of its own, able to corrupt humans into undead creatures, manifest itself in the form of various monsters, and select various individuals known as \"Herrschers\" to imbue with god-like powers able to trigger apocalyptic events. The Honkai is a cyclic phenomenon, returning to end civilization on Earth each time it gets too advanced - the Previous Era ended 50,000 years prior to the game's start, after the 14th Herrscher defeated humanity.\n\nIn the present day, various global factions exist to combat or take advantage of the power of Honkai. These include \"Schicksal\", a European-based peacekeeping organization that deploys human warriors known as Valkyries to combat the Honkai; \"Anti-Entropy\", formerly the North American branch of Schicksal that objected to the use of human soldiers in favor of mechanized robots; and \"World Serpent\", a shadow organization manipulating events since the end of the Previous Era.\n\nPrior to the story's start, three Herrscher awakenings (or \"Impacts\") have occurred in the Current Era: the Herrscher of Reason who became the leader of Anti-Entropy instead of fighting humanity, the Herrscher of the Void who was sealed away by Schicksal under mysterious circumstances, and the Herrscher of Lightning who was prevented from fully awakening and sent to train her powers as a Valkyrie at Schicksal's St. Freya school.\n\nThe storyline of Honkai Impact 3rd spans multiple supplementary media, including an anime series, multiple manhua series, and promotional videos.",
+    "summary": "Honkai Impact 3rd follows Valkyries as they defend the world from Honkai, the \u201cmysterious power responsible for destroying human civilization countless times.\u201d",
+    "themes": [
+      1,
+      17,
+      18,
+      31,
+      43
+    ],
+    "total_rating": 71.73775378344517,
+    "total_rating_count": 79
+  },
+  {
+    "id": 97494,
+    "first_release_date": 1614124800,
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      7,
+      12,
+      13,
+      14,
+      34
+    ],
+    "keywords": [
+      78,
+      623,
+      823,
+      4162,
+      4366,
+      17292,
+      25210,
+      44765
+    ],
+    "name": "Umamusume: Pretty Derby",
+    "platforms": [
+      34,
+      6,
+      39
+    ],
+    "player_perspectives": [
+      5
+    ],
+    "similar_games": [
+      19164,
+      24493,
+      24426,
+      28010,
+      22387,
+      96217,
+      106987,
+      72812,
+      19150,
+      54775
+    ],
+    "storyline": "Umamusume. They are born to run. They inherit otherworldly names, and are inspirited by dreams most dramatic and wonderful. Now, they run ever forward. That, is their destiny. No one knows how the races that lie in their futures will end. Even so, they continue to run, aiming only toward the goal in front of them.",
+    "summary": "Umamusume: Pretty Derby is ready to race! Scout featured trainees and supporters as you navigate the immersive sports life simulation through the game's in-depth training system and top-of-the-line 3D graphics!",
+    "themes": [
+      1,
+      17,
+      27
+    ],
+    "total_rating": 74.46888547707887,
+    "total_rating_count": 25
+  },
+  {
     "id": 101006,
     "first_release_date": 1646352000,
     "game_modes": [
@@ -5759,8 +9320,56 @@
     "themes": [
       32
     ],
-    "total_rating": 83.77811767982604,
-    "total_rating_count": 93
+    "total_rating": 83.78028246789131,
+    "total_rating_count": 94
+  },
+  {
+    "id": 103330,
+    "first_release_date": 1584057600,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      12,
+      25,
+      31
+    ],
+    "keywords": [
+      2458,
+      3257,
+      17326,
+      18032,
+      39005
+    ],
+    "name": "Nioh 2",
+    "platforms": [
+      48
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      103168,
+      54775,
+      106987,
+      96217,
+      19164,
+      105049,
+      81249,
+      55038,
+      55199,
+      27092
+    ],
+    "summary": "Master the lethal arts of the samurai as a mysterious half-human, half-supernatural Yokai warrior, in this challenging action RPG sequel. Explore violent Sengoku-era Japan and the deadly Dark Realm, both plagued with grotesque, merciless demons. Unsheathe your deadly weapons and cut down all enemies in your path using a revamped combat system and the ability to transform into a full Yokai to unleash devastating paranormal powers.",
+    "themes": [
+      1,
+      17,
+      22
+    ],
+    "total_rating": 83.06764203129094,
+    "total_rating_count": 63
   },
   {
     "id": 103380,
@@ -5886,8 +9495,8 @@
       1,
       35
     ],
-    "total_rating": 76.66639828623629,
-    "total_rating_count": 151
+    "total_rating": 73.94058562617478,
+    "total_rating_count": 152
   },
   {
     "id": 104967,
@@ -5947,8 +9556,8 @@
       33,
       38
     ],
-    "total_rating": 87.21865533574119,
-    "total_rating_count": 278
+    "total_rating": 87.08087616190818,
+    "total_rating_count": 279
   },
   {
     "id": 104992,
@@ -5988,8 +9597,8 @@
       27,
       40
     ],
-    "total_rating": 76.88520234787143,
-    "total_rating_count": 19
+    "total_rating": 76.88214019494578,
+    "total_rating_count": 20
   },
   {
     "id": 105049,
@@ -6196,8 +9805,8 @@
       35,
       38
     ],
-    "total_rating": 86.35905638590312,
-    "total_rating_count": 491
+    "total_rating": 86.35850273964343,
+    "total_rating_count": 493
   },
   {
     "id": 109601,
@@ -6352,8 +9961,8 @@
       23,
       40
     ],
-    "total_rating": 77.10358290828088,
-    "total_rating_count": 565
+    "total_rating": 77.1030455879187,
+    "total_rating_count": 566
   },
   {
     "id": 114283,
@@ -6408,8 +10017,8 @@
       31,
       43
     ],
-    "total_rating": 94.12897079427366,
-    "total_rating_count": 649
+    "total_rating": 94.12876405948909,
+    "total_rating_count": 652
   },
   {
     "id": 114392,
@@ -6557,7 +10166,7 @@
       1,
       18
     ],
-    "total_rating": 81.78757560297245,
+    "total_rating": 81.78731662043585,
     "total_rating_count": 651
   },
   {
@@ -6600,8 +10209,8 @@
       1,
       18
     ],
-    "total_rating": 81.15943158158977,
-    "total_rating_count": 63
+    "total_rating": 81.26718928532235,
+    "total_rating_count": 64
   },
   {
     "id": 115286,
@@ -6649,6 +10258,91 @@
     "total_rating_count": 8
   },
   {
+    "id": 115289,
+    "first_release_date": 1756944000,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8,
+      31,
+      32
+    ],
+    "keywords": [
+      72,
+      227,
+      288,
+      477,
+      518,
+      962,
+      1059,
+      1293,
+      1494,
+      1697,
+      1847,
+      2071,
+      2137,
+      2814,
+      3014,
+      4004,
+      4135,
+      4150,
+      4276,
+      4344,
+      4891,
+      7410,
+      11478,
+      16877,
+      37861,
+      40744,
+      42581,
+      44629,
+      44930,
+      46439,
+      47044,
+      48693,
+      49539,
+      49618,
+      49624,
+      49625
+    ],
+    "name": "Hollow Knight: Silksong",
+    "platforms": [
+      169,
+      48,
+      3,
+      508,
+      6,
+      167,
+      14,
+      49,
+      130
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      23733,
+      14593,
+      18182,
+      26820,
+      103329,
+      20329,
+      28070,
+      7344,
+      26226,
+      9174
+    ],
+    "storyline": "Play as Hornet, princess-protector of Hallownest, and adventure through a whole new kingdom ruled by silk and song! Captured and brought to this unfamiliar world, Hornet must battle foes and solve mysteries as she ascends on a deadly pilgrimage to the kingdom\u2019s peak.",
+    "summary": "Hollow Knight: Silksong is the epic sequel to Hollow Knight, the epic action-adventure of bugs and heroes. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past.",
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 91.05266936312515,
+    "total_rating_count": 424
+  },
+  {
     "id": 115653,
     "first_release_date": 1573776000,
     "game_modes": [
@@ -6689,8 +10383,8 @@
       17,
       38
     ],
-    "total_rating": 66.16460297904119,
-    "total_rating_count": 226
+    "total_rating": 66.16781333536557,
+    "total_rating_count": 228
   },
   {
     "id": 117199,
@@ -6745,8 +10439,8 @@
       39,
       44
     ],
-    "total_rating": 85.8495844886558,
-    "total_rating_count": 53
+    "total_rating": 84.41805361356386,
+    "total_rating_count": 55
   },
   {
     "id": 119133,
@@ -6878,8 +10572,8 @@
       17,
       38
     ],
-    "total_rating": 95.23701493775289,
-    "total_rating_count": 2089
+    "total_rating": 95.2357590976822,
+    "total_rating_count": 2102
   },
   {
     "id": 119171,
@@ -6978,8 +10672,8 @@
       1,
       17
     ],
-    "total_rating": 95.0849164315067,
-    "total_rating_count": 1425
+    "total_rating": 95.08239655202456,
+    "total_rating_count": 1436
   },
   {
     "id": 119277,
@@ -7047,8 +10741,65 @@
       17,
       38
     ],
-    "total_rating": 81.13409121473626,
-    "total_rating_count": 620
+    "total_rating": 81.13226878357983,
+    "total_rating_count": 622
+  },
+  {
+    "id": 119313,
+    "first_release_date": 1596499200,
+    "game_modes": [
+      2,
+      3,
+      6
+    ],
+    "genres": [
+      8,
+      10,
+      32
+    ],
+    "keywords": [
+      772,
+      3138,
+      4273,
+      6195,
+      23359,
+      39028,
+      39032
+    ],
+    "name": "Fall Guys",
+    "platforms": [
+      169,
+      48,
+      34,
+      6,
+      39,
+      167,
+      49,
+      130
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      119207,
+      105011,
+      24426,
+      55190,
+      20342,
+      55173,
+      56033,
+      28070,
+      120287,
+      113895
+    ],
+    "summary": "Fall Guys flings hordes of contestants together online in a mad dash through round after round of escalating chaos until one victor remains! Battle bizarre obstacles, shove through unruly competitors, and overcome the unbending laws of physics to avoid both humiliation and elimination. Leave your dignity at the door and prepare for hilarious failure in your quest for the crown.",
+    "themes": [
+      1,
+      27,
+      40
+    ],
+    "total_rating": 75.10825094131135,
+    "total_rating_count": 559
   },
   {
     "id": 119388,
@@ -7113,8 +10864,8 @@
       33,
       38
     ],
-    "total_rating": 94.10839927596209,
-    "total_rating_count": 837
+    "total_rating": 94.10625728633266,
+    "total_rating_count": 842
   },
   {
     "id": 120176,
@@ -7162,6 +10913,107 @@
     ],
     "total_rating": 82.32837664400533,
     "total_rating_count": 126
+  },
+  {
+    "id": 121295,
+    "first_release_date": 1627862400,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8,
+      12,
+      31,
+      32
+    ],
+    "keywords": [
+      72,
+      223,
+      477,
+      537,
+      905,
+      1033,
+      1697,
+      1721,
+      17326,
+      49307,
+      49437
+    ],
+    "name": "Grime",
+    "platforms": [
+      170,
+      169,
+      48,
+      6,
+      167,
+      49
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      24426,
+      96217,
+      28070,
+      106987,
+      28168,
+      47823,
+      105049,
+      28309,
+      80916,
+      36198
+    ],
+    "storyline": "Destroy... Absorb... Grow... GRIME is a fast and unforgiving Action-Adventure RPG in which you crush your foes with living weapons that mutate form and function, and then consume their remains with a black hole to strengthen your vessel as you break apart a world of anatomical horror and intrigue.\n\nAn unusual material collapses in on itself, the world shudders and contracts, and suddenly you are squeezed into existence.\n\nWhat awaits you is a world unknown, alien in its own familiarity, and you must survive what terrors you face. Explore your surreal surroundings, absorb the many enemies you encounter, and use their own traits against them as you let yourself become far more than you once were.\n\nGRIME lets you play to your preference, upgrading only those traits you feel most suited to your unique style. You\u2019ll find there is more than one way to break open an enemy as you move through a variety of evocative environments, meet their inhabitants, and discover the source of their madness.\n\nUncover mysterious secrets in weeping caves and face-covered deserts. Meet otherworldly characters in distinct civilizations across an organic, interconnected world - all rendered in unearthly 3D. Face foes born of the world itself, and swallow them whole.",
+    "summary": "Explore a surreal world obsessed with proportions and anatomy, in this 2.5D Metroidvania action RPG, where you will find out what you're made of... and break everything else apart.",
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 87.20720751326218,
+    "total_rating_count": 25
+  },
+  {
+    "id": 122346,
+    "first_release_date": 1487289600,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      5,
+      12,
+      31,
+      32,
+      33
+    ],
+    "name": "Soul Knight",
+    "platforms": [
+      34,
+      39,
+      130
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "similar_games": [
+      105269,
+      107318,
+      106987,
+      28309,
+      96217,
+      47823,
+      80916,
+      43367,
+      30245,
+      55038
+    ],
+    "summary": "\u201cIn a time of gun and sword, the magical stone that maintains the balance of the world is stolen by high-tech aliens. The world is hanging on a thin thread. It all depends on you retrieving the magical stone\u2026\u201d\n\nWe honestly can\u2019t keep making it all up. Let\u2019s just shoot some alien minions!\n\nThis is the game you have always wanted in your subconscious. Explore the dungeon, collect crazy weapons, dodge bullets and shoot\u2018em all up! Extremely easy and intuitive control; super smooth and enjoyable gameplay, mixed with rogue-like elements. Best shooter game you will find on the mobile store so far.\n\nFeatures:\n\n* Unique heroes, with unique ability.\n\n* 120+ weapons waiting for you to explore.\n\n* Randomly generated dungeon world, new experience every time.\n\n* NPCs that actually matter! They will fight by your side!\n\n* Auto-aim mechanism for super intuitive control.\n\n* Many more features that you will find out in game.",
+    "themes": [
+      1
+    ],
+    "total_rating": 72.47984162307449,
+    "total_rating_count": 10
   },
   {
     "id": 123395,
@@ -7269,6 +11121,7 @@
     "id": 125174,
     "first_release_date": 1691625600,
     "game_modes": [
+      1,
       2,
       3
     ],
@@ -7278,7 +11131,8 @@
     "keywords": [
       546,
       1332,
-      5730
+      5730,
+      10342
     ],
     "name": "Overwatch",
     "platforms": [
@@ -7302,8 +11156,8 @@
       103301,
       113362,
       68287,
-      306,
       103292,
+      306,
       105482
     ],
     "summary": "Overwatch is a free-to-play, team-based action game set in the optimistic future, where every match is the ultimate 5v5 battlefield brawl. Play as a time-jumping freedom fighter, a beat-dropping battlefield DJ, or one of over 30 other unique heroes as you battle it out around the globe.",
@@ -7607,8 +11461,8 @@
       19,
       21
     ],
-    "total_rating": 73.09459191871248,
-    "total_rating_count": 107
+    "total_rating": 74.38794483901178,
+    "total_rating_count": 108
   },
   {
     "id": 131931,
@@ -7653,8 +11507,8 @@
       19,
       21
     ],
-    "total_rating": 72.42936903402182,
-    "total_rating_count": 36
+    "total_rating": 72.72211625988093,
+    "total_rating_count": 37
   },
   {
     "id": 132181,
@@ -7720,8 +11574,8 @@
       19,
       43
     ],
-    "total_rating": 92.50467966072259,
-    "total_rating_count": 611
+    "total_rating": 92.50328110350458,
+    "total_rating_count": 619
   },
   {
     "id": 132185,
@@ -7770,7 +11624,7 @@
       18
     ],
     "total_rating": 82.59912808449042,
-    "total_rating_count": 29
+    "total_rating_count": 30
   },
   {
     "id": 132516,
@@ -8018,6 +11872,55 @@
     "total_rating_count": 4
   },
   {
+    "id": 134585,
+    "first_release_date": 1605139200,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      8,
+      31
+    ],
+    "keywords": [
+      182,
+      250,
+      2760
+    ],
+    "name": "Sackboy: A Big Adventure",
+    "platforms": [
+      48,
+      6,
+      167
+    ],
+    "player_perspectives": [
+      2,
+      3,
+      4
+    ],
+    "similar_games": [
+      20342,
+      55173,
+      24426,
+      26574,
+      28070,
+      55190,
+      47823,
+      56033,
+      111130,
+      89597
+    ],
+    "storyline": "The dastardly Vex (a near-mythical being born of chaos and fear, no less) kidnaps Sackboy\u2019s friends and forces them to build his Topsy Turver.\n\nThis most deadly diabolical device will transform Craftworld from a fantastical land of pure imagination and innocent dreams\u2026 into a torrid, barren eyesore of nightmares. Ooh the fiend!\n\nBut legend tells of a prophecy from deep within the ancient order of the Knitted Knights, Craftworld\u2019s legendary protectors. For only the brave, fearless, chivalrous and, yes, gallant can save the day in an almost too dramatic for words race against time stuffed with danger and peril. So much peril.",
+    "summary": "Iconic PlayStation hero, Sackboy returns in an all-new 3D adventure with a deeply immersive and expressive control scheme. Players can go on this epic platforming journey solo-style, or they can team up with friends for collaborative, chaotic multiplayer fun.",
+    "themes": [
+      1,
+      33
+    ],
+    "total_rating": 81.52266773141042,
+    "total_rating_count": 95
+  },
+  {
     "id": 135243,
     "first_release_date": 1616630400,
     "game_modes": [
@@ -8079,8 +11982,8 @@
     "themes": [
       1
     ],
-    "total_rating": 89.37966768198689,
-    "total_rating_count": 1025
+    "total_rating": 89.38311329116354,
+    "total_rating_count": 1034
   },
   {
     "id": 135381,
@@ -8211,8 +12114,8 @@
       38,
       41
     ],
-    "total_rating": 81.44048749382463,
-    "total_rating_count": 500
+    "total_rating": 81.44459732842152,
+    "total_rating_count": 504
   },
   {
     "id": 135842,
@@ -8254,7 +12157,7 @@
       1,
       21
     ],
-    "total_rating": 76.53090583971458,
+    "total_rating": 76.77090001952487,
     "total_rating_count": 39
   },
   {
@@ -8313,6 +12216,50 @@
     "total_rating_count": 40
   },
   {
+    "id": 136879,
+    "first_release_date": 1724112000,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12,
+      25,
+      31
+    ],
+    "keywords": [
+      40860,
+      41581
+    ],
+    "name": "Black Myth: Wukong",
+    "platforms": [
+      169,
+      6,
+      167
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      103168,
+      54775,
+      106987,
+      96217,
+      81249,
+      55038,
+      19164,
+      55199,
+      101608,
+      28010
+    ],
+    "summary": "Black Myth: Wukong is an action RPG rooted in Chinese mythology. The story is based on Journey to the West, one of the Four Great Classical Novels of Chinese literature. You shall set out as the Destined One to venture into the challenges and marvels ahead, to uncover the obscured truth beneath the veil of a glorious legend from the past.",
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 88.67338130535816,
+    "total_rating_count": 213
+  },
+  {
     "id": 136977,
     "first_release_date": 1659571200,
     "game_modes": [
@@ -8368,6 +12315,52 @@
     ],
     "total_rating": 69.65253490028665,
     "total_rating_count": 7
+  },
+  {
+    "id": 138213,
+    "first_release_date": 1663545600,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12,
+      31,
+      32
+    ],
+    "keywords": [
+      1780,
+      3534,
+      17326
+    ],
+    "name": "There Is No Light",
+    "platforms": [
+      48,
+      6,
+      49,
+      130
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "similar_games": [
+      106987,
+      96217,
+      111130,
+      36198,
+      24426,
+      28309,
+      47823,
+      25646,
+      80916,
+      116530
+    ],
+    "storyline": "After a global catastrophe, the remains of human civilization built a new religious society among the ruins of the desolated underground. They have forgotten the light of the sun and now are blindly following the New God \u2014 The Great Hand. Once every few years, The Hand comes down to the people of the Central Station and takes away the chosen newborns to the world hidden behind the gates of the Sanctuary. The Hero embarks on a dangerous journey through this hostile world to find a way to open the gates and bring his child back.",
+    "summary": "There Is No Light is a brutal action-adventure set in a grim underground world ruled by the mysterious Church of the Great Hand. Blast your way through the hordes of enemies, fight dangerous bosses and explore the world the way you want.",
+    "themes": [
+      1,
+      17,
+      19
+    ]
   },
   {
     "id": 139672,
@@ -8444,14 +12437,14 @@
     "similar_games": [
       25311,
       24620,
-      95340,
       89550,
       34024,
       13200,
       119156,
       56967,
       113201,
-      34269
+      34269,
+      36553
     ],
     "storyline": "The year is 2332, and the Universe is dying. Expanding far faster than previously imagined, the very fabric of space-time has begun to split at the seams, and in a few short centuries the entire universe will be torn apart in one final, all-encompassing explosion. This terrible revelation was first discovered by scientists at the ZPT Corporation\u2014the largest, wealthiest, and most cutthroat commercial entity in existence\u2014and soon made known to all of the universe's races. The Human Federation, despite being a relatively new player on the interstellar stage, spearheaded the search for a way out. Hidden away in the perilous dark matter labyrinths of the Eridanus Supervoid, human explorers located an artifact left behind from the Big Bang: a primordial space-time rip which could be used as a gateway out of the Universe. Where exactly this gateway led, none could say, but it offered an escape from certain death.",
     "summary": "Genesis is a Next Gen free to play MOBA developed with Unreal 4 Engine. It features 5v5 competitive gameplay, story campaign and other game modes. The game boasts of smooth gameplay and stunning graphics, coupled with its intuitive joystick control, Genesis is an innovative MOBA tailored for console gamers.\nIt's available on playstation network and is compatible with playstation 4 and playstation 5 consoles.",
@@ -8518,8 +12511,8 @@
       1,
       38
     ],
-    "total_rating": 89.39612571918389,
-    "total_rating_count": 331
+    "total_rating": 89.3960579272005,
+    "total_rating_count": 334
   },
   {
     "id": 143061,
@@ -8586,8 +12579,8 @@
       33,
       38
     ],
-    "total_rating": 75.59416175112543,
-    "total_rating_count": 25
+    "total_rating": 75.59781307489133,
+    "total_rating_count": 26
   },
   {
     "id": 143114,
@@ -8617,13 +12610,13 @@
       6985,
       34024,
       55029,
+      77597,
       119156,
       30229,
       113201,
       56967,
       34269,
-      25472,
-      78550
+      25472
     ],
     "storyline": "Far beyond the world and its petty wars there exists a dimension of pure, malevolent magic: The Realm of Chaos. It is a terrible place, incomprehensible to the mortal mind. It whispers promises of power, but to behold it is to be seduced by it. To relinquish your soul to it. To become it.\n\nThe four Ruinous Powers rule over this place, ever seeking to slip their bonds and engulf the world in a tide of daemonic corruption. Nurgle, the plague god; Slaanesh, the lord of excess; Tzeentch, the changer of ways; and Khorne, the god of blood and slaughter.\n\nOn the border between the worlds, two mighty kingdoms stand sentinel: the stern warriors of Kislev and the vast empire of Grand Cathay. But each is beset by its own trials, and now both have cause to cross the threshold and send their armies into the Realm of Chaos.\n\nThe world stands on a precipice. A single push will plunge it into cataclysm.\n\nAnd there is one who schemes to achieve just that, an ancient figure who desires nothing less than to wield supreme power. But to succeed, he will need a champion\u2026\n\nThe coming conflict will engulf all. Will you conquer your daemons? Or command them?",
     "summary": "The cataclysmic conclusion to the Total War: Warhammer trilogy is coming. Rally your forces and step into the Realm of Chaos, a dimension of mind-bending horror where the very fate of the world will be decided. Will you conquer your Daemons or command them?",
@@ -8633,7 +12626,7 @@
       39
     ],
     "total_rating": 80.90511624370518,
-    "total_rating_count": 49
+    "total_rating_count": 50
   },
   {
     "id": 144022,
@@ -8677,8 +12670,8 @@
     "themes": [
       1
     ],
-    "total_rating": 80.44201493585558,
-    "total_rating_count": 207
+    "total_rating": 80.44168028721793,
+    "total_rating_count": 208
   },
   {
     "id": 144098,
@@ -8765,12 +12758,12 @@
       19404,
       40477,
       32510,
+      77597,
       119156,
       13196,
       7615,
       113201,
-      56967,
-      111187
+      56967
     ],
     "summary": "The Bazaar is the first Hero Builder, developed by Tempo. Set in a vibrant, ever-changing galactic marketplace, players assume a role from a roster of unique heroes, trading and upgrading otherworldly items & skills to assemble them into a plethora of combinations used to outplay and defeat opponents.",
     "themes": [
@@ -8969,6 +12962,57 @@
     ]
   },
   {
+    "id": 148241,
+    "first_release_date": 1694995200,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12,
+      31
+    ],
+    "keywords": [
+      906,
+      1697,
+      2426,
+      17326,
+      23933
+    ],
+    "name": "Lies of P",
+    "platforms": [
+      169,
+      48,
+      6,
+      167,
+      14,
+      49
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      19164,
+      81249,
+      102584,
+      18225,
+      111130,
+      26574,
+      1877,
+      106987,
+      96217,
+      116530
+    ],
+    "storyline": "Lies of P is set in the late 19th Century to the early 20th Century of the Belle \u00c9poque Era in Europe within a city called Krat. The city of Krat was once a beautiful place but has now become lost and turned into a living hell that is filled with unspeakable horrors due to a deadly plague. Krat is featured as a grim city where multiple automatons now roam almost every part of the center, from the streets, rooftops, alleyways, and within buildings.\n\nAs you start your adventure in Lies of P, you play as the puppet mechanoid Pinocchio who awakens in an abandoned train station not knowing where he has come from and what his purpose is. As we all know the famous fable of Pinocchio, Mr. Geppetto carved a wooden puppet named Pinocchio and was visited by the Blue Fairy who granted Mr. Geppetto's wish by transforming the puppet into a living being, that being said, Pinocchio sets forth into reaching his goal of becoming a real boy.",
+    "summary": "Lies of P is an action role-playing game set in a dark, Belle \u00c9poque-inspired city overrun by deadly puppets. Players control Pinocchio, reimagined as a mechanical warrior, navigating a decaying world while making choices that affect the unfolding narrative. The game features challenging melee combat, weapon customization, and a mechanical arm with various abilities.",
+    "themes": [
+      1,
+      19,
+      38
+    ],
+    "total_rating": 85.11847472772284,
+    "total_rating_count": 321
+  },
+  {
     "id": 151665,
     "first_release_date": 1705622400,
     "game_modes": [
@@ -9154,7 +13198,63 @@
       1
     ],
     "total_rating": 80.28625171326993,
-    "total_rating_count": 68
+    "total_rating_count": 69
+  },
+  {
+    "id": 165390,
+    "first_release_date": 1692835200,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8,
+      12,
+      25,
+      31,
+      32
+    ],
+    "keywords": [
+      288,
+      477,
+      1033,
+      1059,
+      1308,
+      2137,
+      4138,
+      40744
+    ],
+    "name": "Blasphemous II",
+    "platforms": [
+      169,
+      48,
+      6,
+      167,
+      49,
+      130
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      24426,
+      106987,
+      96217,
+      47823,
+      28309,
+      80916,
+      36198,
+      19150,
+      30245,
+      103168
+    ],
+    "storyline": "Awakened in a strange new land, and displaced from his final resting place, The Penitent One is thrust back into the endless cycle of life, death, and resurrection, with no other option than to explore this perilous new world and uncover its long-forgotten secrets.\n\nHordes of grotesque enemies stand in your way, awaiting final judgement by the brutal hand of the Penitent One, with titanic twisted bosses also lurking in the darkness, waiting for their chance to return you to the grave from whence you came.",
+    "summary": "The Penitent One awakens as Blasphemous 2 joins him once again in an endless struggle against The Miracle. Dive into a perilous new world filled with mysteries and secrets to discover, and tear your way through monstrous foes that stand between you and your quest to end the cycle one and for all.",
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 86.49939437637926,
+    "total_rating_count": 91
   },
   {
     "id": 168637,
@@ -9260,6 +13360,116 @@
     ]
   },
   {
+    "id": 176057,
+    "first_release_date": 1633996800,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      9,
+      31,
+      32
+    ],
+    "keywords": [
+      223,
+      2426,
+      3560,
+      37089
+    ],
+    "name": "Poppy Playtime",
+    "platforms": [
+      169,
+      48,
+      34,
+      6,
+      39,
+      167,
+      49,
+      130
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "similar_games": [
+      25646,
+      111130,
+      18011,
+      11668,
+      56033,
+      26658,
+      55984,
+      80916,
+      25222,
+      107614
+    ],
+    "storyline": "Playtime Co. was once the king of the toy manufacturing industry... until everybody inside of the factory one day disappeared into thin air. Now, years later, you must explore the abandoned factory and uncover the truth.",
+    "summary": "You must stay alive in this horror/puzzle adventure. Try to survive the vengeful toys waiting for you in the abandoned toy factory. Use your GrabPack to hack electrical circuits or nab anything from afar. Explore the mysterious facility... and don't get caught.",
+    "themes": [
+      1,
+      19,
+      20,
+      21,
+      43
+    ],
+    "total_rating": 65.61037768887154,
+    "total_rating_count": 81
+  },
+  {
+    "id": 178282,
+    "first_release_date": 1682467200,
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      12,
+      16,
+      31
+    ],
+    "keywords": [
+      78,
+      974,
+      2107,
+      2385,
+      2426,
+      7545,
+      16877,
+      25963,
+      44020,
+      50536
+    ],
+    "name": "Honkai: Star Rail",
+    "platforms": [
+      34,
+      6,
+      39,
+      167
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      27209,
+      55038,
+      24426,
+      96217,
+      106987,
+      28010,
+      115653,
+      19164,
+      114009,
+      25311
+    ],
+    "summary": "Honkai: Star Rail is an all-new strategy-RPG title in the Honkai series that takes players on a cosmic adventure across the stars. Hop aboard the Astral Express and experience the galaxy's infinite wonders on this journey filled with adventure and thrill.",
+    "themes": [
+      1,
+      17,
+      18
+    ],
+    "total_rating": 83.06813458063442,
+    "total_rating_count": 176
+  },
+  {
     "id": 185258,
     "first_release_date": 1761782400,
     "game_modes": [
@@ -9314,8 +13524,8 @@
       1,
       18
     ],
-    "total_rating": 86.67119032840645,
-    "total_rating_count": 245
+    "total_rating": 86.67571031915205,
+    "total_rating_count": 248
   },
   {
     "id": 188383,
@@ -9349,6 +13559,52 @@
     "summary": "Reverse: 1999 sets in the retro style world in the west. The story is interesting: on the last day of 1999, humanity was brought into a new age \u2013 the 1920s, by a strange storm. In the new world, surprisingly, some talented people have a kind of ability called Arcanum, and some of them become Arcanists. You will explore and try to discover the secrets in the new world.\n\nNow you must find out what to do and save some people along the way. It\u2019s a fantastic card-based game in which you\u2019ll learn a lot of new stuff that RPG fans will undoubtedly enjoy.",
     "total_rating": 78.72506695498895,
     "total_rating_count": 30
+  },
+  {
+    "id": 190361,
+    "first_release_date": 1646870400,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      9,
+      13,
+      31,
+      32
+    ],
+    "keywords": [
+      138,
+      1697,
+      5825
+    ],
+    "name": "Iron Lung",
+    "platforms": [
+      6,
+      167,
+      130
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "similar_games": [
+      28070,
+      25646,
+      25222,
+      27266,
+      25311,
+      18020,
+      18011,
+      111130,
+      56033,
+      28277
+    ],
+    "summary": "A short horror game where you pilot a tiny submarine through an ocean of blood on an alien moon.",
+    "themes": [
+      18,
+      19
+    ],
+    "total_rating": 79.11236781586334,
+    "total_rating_count": 52
   },
   {
     "id": 191692,
@@ -9398,8 +13654,8 @@
       1,
       17
     ],
-    "total_rating": 87.53488239612216,
-    "total_rating_count": 115
+    "total_rating": 86.44162308230128,
+    "total_rating_count": 118
   },
   {
     "id": 191747,
@@ -9789,8 +14045,8 @@
       1,
       18
     ],
-    "total_rating": 73.75550420101777,
-    "total_rating_count": 116
+    "total_rating": 73.70982192604677,
+    "total_rating_count": 118
   },
   {
     "id": 200551,
@@ -9871,12 +14127,12 @@
       24620,
       19404,
       32510,
+      77597,
       13200,
       119156,
       13196,
       56967,
-      7615,
-      113201
+      7615
     ],
     "summary": "Marvel Snap: The fastest card battler in the multiverse!\n\nBuild your Marvel dream team in this fast-paced, action-packed, collectible card game available on Mobile and PC.",
     "themes": [
@@ -9885,6 +14141,45 @@
     ],
     "total_rating": 79.58496091421168,
     "total_rating_count": 112
+  },
+  {
+    "id": 202864,
+    "first_release_date": 1653523200,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      7,
+      33
+    ],
+    "keywords": [
+      1892,
+      4137,
+      42175
+    ],
+    "name": "Hatsune Miku: Project Diva Mega Mix+",
+    "platforms": [
+      6
+    ],
+    "similar_games": [
+      18981,
+      103369,
+      54775,
+      106987,
+      96217,
+      81249,
+      119156,
+      113636,
+      19164,
+      55038
+    ],
+    "summary": "Take center stage in Hatsune Miku\u2019s premier rhythm game starring the world\u2019s #1 virtual pop star herself. From a stunner setlist of songs to an enormous wardrobe to style, it\u2019s the ultimate tour with Miku and friends\u2014all it needs is you.",
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 84.04958677685951,
+    "total_rating_count": 10
   },
   {
     "id": 203259,
@@ -9934,6 +14229,118 @@
     ],
     "total_rating": 77.44282985269501,
     "total_rating_count": 32
+  },
+  {
+    "id": 203722,
+    "first_release_date": 1687910400,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12,
+      13,
+      31
+    ],
+    "keywords": [
+      72,
+      98,
+      138,
+      283,
+      288,
+      403,
+      509,
+      510,
+      574,
+      606,
+      758,
+      994,
+      1061,
+      1103,
+      1148,
+      1293,
+      1356,
+      1494,
+      1511,
+      1566,
+      1705,
+      1780,
+      2147,
+      2251,
+      2347,
+      2426,
+      2657,
+      3430,
+      3486,
+      4004,
+      4135,
+      4150,
+      4276,
+      4397,
+      4399,
+      4767,
+      4940,
+      4960,
+      5359,
+      6859,
+      16877,
+      17292,
+      18437,
+      23111,
+      23933,
+      24235,
+      27179,
+      33141,
+      37861,
+      38859,
+      38887,
+      41782,
+      41929,
+      42066,
+      42298,
+      44629,
+      44930,
+      46408,
+      46439,
+      47044,
+      47505,
+      47576,
+      49376,
+      49495,
+      49496
+    ],
+    "name": "Dave the Diver",
+    "platforms": [
+      169,
+      48,
+      508,
+      6,
+      167,
+      14,
+      130
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "similar_games": [
+      17000,
+      81680,
+      76263,
+      23733,
+      27384,
+      9243,
+      1942,
+      25076,
+      18182,
+      14593
+    ],
+    "storyline": "Former arms dealer Cobra discovers that every time he enters the Blue Hole, the ecology and terrain change, presenting a lucrative opportunity. He convinces the ever-optimistic Dave (the playable protagonist) and Bancho, a sushi chef specializing in rare sea creatures, to open a sushi restaurant nearby. While investigating the interior of the Blue Hole at the request of archaeologist Bacon, Dave finds that the descendants of ancient Sea People\u2014who still live in the deep\u2014are under threat. Realizing that this could be catastrophic not only for the hidden village but for the Earth itself, Dave dives deeper in search of a solution.",
+    "summary": "Dave the Diver is an action-adventure and management simulation game developed by Mintrocket. In the game, players control Dave, who spends his days diving into underwater environments to catch fish and gather resources, and his nights managing a sushi restaurant. The gameplay combines real-time underwater exploration and combat with restaurant management mechanics.",
+    "themes": [
+      1,
+      28
+    ],
+    "total_rating": 87.11606063885567,
+    "total_rating_count": 181
   },
   {
     "id": 204444,
@@ -10137,8 +14544,8 @@
       1,
       18
     ],
-    "total_rating": 44.67387848378702,
-    "total_rating_count": 107
+    "total_rating": 44.677266904979,
+    "total_rating_count": 108
   },
   {
     "id": 212089,
@@ -10262,8 +14669,8 @@
     "themes": [
       1
     ],
-    "total_rating": 77.22132019848705,
-    "total_rating_count": 276
+    "total_rating": 77.219927069623,
+    "total_rating_count": 277
   },
   {
     "id": 217311,
@@ -10461,8 +14868,8 @@
     "themes": [
       1
     ],
-    "total_rating": 82.39077669437259,
-    "total_rating_count": 121
+    "total_rating": 82.39388135053636,
+    "total_rating_count": 124
   },
   {
     "id": 217815,
@@ -10579,8 +14986,8 @@
       25311
     ],
     "summary": "Welcome to Minos Bureau of Crisis Control.\n\nAs the Chief, you are obligated to Shackle and Control the most vicious outlaws\u2014Sinners, to Protect the city from falling. Hold on to the light in the darkness and salvage hope from despair.",
-    "total_rating": 84.23423423423424,
-    "total_rating_count": 5
+    "total_rating": 86.58291142870551,
+    "total_rating_count": 6
   },
   {
     "id": 222341,
@@ -10629,8 +15036,8 @@
       31,
       43
     ],
-    "total_rating": 88.79211800887816,
-    "total_rating_count": 265
+    "total_rating": 88.8386128292999,
+    "total_rating_count": 268
   },
   {
     "id": 224262,
@@ -10944,7 +15351,7 @@
       17
     ],
     "total_rating": 79.62381449934682,
-    "total_rating_count": 96
+    "total_rating_count": 97
   },
   {
     "id": 242408,
@@ -10982,8 +15389,8 @@
       1,
       39
     ],
-    "total_rating": 67.54534431555054,
-    "total_rating_count": 322
+    "total_rating": 67.741686162049,
+    "total_rating_count": 327
   },
   {
     "id": 243747,
@@ -11034,7 +15441,7 @@
       1,
       17
     ],
-    "total_rating": 66.2296673690572,
+    "total_rating": 66.12238419094479,
     "total_rating_count": 8
   },
   {
@@ -11084,8 +15491,8 @@
       1,
       18
     ],
-    "total_rating": 84.9196512193362,
-    "total_rating_count": 296
+    "total_rating": 85.22202281184065,
+    "total_rating_count": 297
   },
   {
     "id": 250632,
@@ -11124,6 +15531,63 @@
     ],
     "total_rating": 51.06770151484609,
     "total_rating_count": 21
+  },
+  {
+    "id": 251833,
+    "first_release_date": 1708387200,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      15,
+      16,
+      32,
+      35
+    ],
+    "keywords": [
+      154,
+      416,
+      4267,
+      25688,
+      27963,
+      39016,
+      39024,
+      39029,
+      39031,
+      39049,
+      49360
+    ],
+    "name": "Balatro",
+    "platforms": [
+      169,
+      48,
+      508,
+      34,
+      6,
+      39,
+      167,
+      14,
+      49,
+      130
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "similar_games": [
+      32510,
+      40477,
+      13660,
+      28182,
+      116992,
+      14394,
+      20331,
+      51736,
+      9472,
+      117417
+    ],
+    "summary": "Balatro is a deck-building roguelite in which players construct poker hands to earn chips and overcome enemy blinds. The game features mechanics for enhancing a deck of playing cards, purchasing Jokers that modify hand effects, and discovering synergies to progress through increasingly challenging encounters.",
+    "total_rating": 88.43670269038198,
+    "total_rating_count": 345
   },
   {
     "id": 252485,
@@ -11535,8 +15999,8 @@
       17,
       38
     ],
-    "total_rating": 87.61953809025859,
-    "total_rating_count": 65
+    "total_rating": 87.5860601205395,
+    "total_rating_count": 66
   },
   {
     "id": 282566,
@@ -11709,8 +16173,8 @@
     "themes": [
       1
     ],
-    "total_rating": 77.27677748227141,
-    "total_rating_count": 325
+    "total_rating": 77.27691923530185,
+    "total_rating_count": 326
   },
   {
     "id": 296314,
@@ -11786,8 +16250,8 @@
     "themes": [
       17
     ],
-    "total_rating": 83.79295553533952,
-    "total_rating_count": 19
+    "total_rating": 83.81273283937412,
+    "total_rating_count": 20
   },
   {
     "id": 301298,
@@ -11832,6 +16296,56 @@
     "themes": [
       1
     ]
+  },
+  {
+    "id": 303811,
+    "first_release_date": 1725580800,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8,
+      31
+    ],
+    "keywords": [
+      575,
+      4836,
+      12083,
+      34931,
+      39008,
+      39009,
+      39011,
+      39020,
+      39025,
+      39046
+    ],
+    "name": "Astro Bot",
+    "platforms": [
+      167
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "similar_games": [
+      28070,
+      26192,
+      103292,
+      55038,
+      76882,
+      25311,
+      105269,
+      24426,
+      55190,
+      20342
+    ],
+    "storyline": "When the PS5 mothership is attacked by Astro\u2019s long-standing galactic nemesis, scrambling its wires and scattering the crew throughout space, only Astro can make things right! Setting off on his biggest mission yet, he needs your help to rescue the stranded crew and rebuild the mothership.\n\nMake the most of Astro\u2019s new power-ups, handcrafted to level up your immersion: from springy punches and rockets all the way to a giant sponge!",
+    "summary": "Buckle up for some epic PlayStation camaraderie, join forces with your favourite PlayStation icons and show the universe that small is mighty in this fresh new Astro adventure, exclusive to PS5 consoles!",
+    "themes": [
+      1,
+      18
+    ],
+    "total_rating": 92.36125442304662,
+    "total_rating_count": 152
   },
   {
     "id": 305019,
@@ -11977,8 +16491,8 @@
       1,
       17
     ],
-    "total_rating": 89.45338559734563,
-    "total_rating_count": 772
+    "total_rating": 89.44205614062804,
+    "total_rating_count": 783
   },
   {
     "id": 305262,
@@ -12067,8 +16581,48 @@
       17,
       40
     ],
-    "total_rating": 82.87844645740867,
-    "total_rating_count": 26
+    "total_rating": 77.94380653902861,
+    "total_rating_count": 27
+  },
+  {
+    "id": 309582,
+    "first_release_date": 1546214400,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      34
+    ],
+    "keywords": [
+      1617,
+      2004,
+      27117
+    ],
+    "name": "Doki Doki Literature Club",
+    "platforms": [
+      38
+    ],
+    "player_perspectives": [
+      5
+    ],
+    "similar_games": [
+      370515,
+      339698,
+      339271,
+      339238,
+      312230,
+      312229,
+      309607,
+      366102,
+      111130,
+      376501
+    ],
+    "summary": "An unofficial port for the PSP.",
+    "themes": [
+      19
+    ],
+    "total_rating": 79.98564126692867,
+    "total_rating_count": 12
   },
   {
     "id": 314246,
@@ -12114,8 +16668,8 @@
       1,
       18
     ],
-    "total_rating": 82.91375923322931,
-    "total_rating_count": 54
+    "total_rating": 82.92221031878891,
+    "total_rating_count": 55
   },
   {
     "id": 316979,
@@ -12377,8 +16931,8 @@
       18,
       40
     ],
-    "total_rating": 79.46628037211411,
-    "total_rating_count": 26
+    "total_rating": 79.47557845219546,
+    "total_rating_count": 28
   },
   {
     "id": 325609,
@@ -12426,8 +16980,8 @@
       1,
       27
     ],
-    "total_rating": 87.1658283153595,
-    "total_rating_count": 219
+    "total_rating": 87.17020889537028,
+    "total_rating_count": 221
   },
   {
     "id": 327405,
@@ -12535,8 +17089,8 @@
       1,
       21
     ],
-    "total_rating": 84.99516470765825,
-    "total_rating_count": 42
+    "total_rating": 84.48015955696377,
+    "total_rating_count": 43
   },
   {
     "id": 329138,
@@ -12635,14 +17189,14 @@
     "similar_games": [
       19404,
       32510,
+      77597,
       119156,
       13196,
       56967,
       7615,
       113201,
       119188,
-      111187,
-      78165
+      111187
     ],
     "summary": "Welcome to Magic Chess: Go Go, the ultimate strategy game combining MLBB heroes with fresh and casual gameplay. It's not about fast mechanics, but about wisdom and a touch of luck! Play anywhere, anytime, and have fun with friends!",
     "themes": [
@@ -12746,8 +17300,8 @@
       21,
       23
     ],
-    "total_rating": 73.66243809869786,
-    "total_rating_count": 143
+    "total_rating": 72.66429377824078,
+    "total_rating_count": 144
   },
   {
     "id": 337031,
@@ -12822,8 +17376,8 @@
     "themes": [
       27
     ],
-    "total_rating": 81.03546319915387,
-    "total_rating_count": 6
+    "total_rating": 81.04517047212425,
+    "total_rating_count": 12
   },
   {
     "id": 338067,
@@ -12926,8 +17480,8 @@
       38,
       40
     ],
-    "total_rating": 85.17876626807228,
-    "total_rating_count": 124
+    "total_rating": 85.17697688431267,
+    "total_rating_count": 126
   },
   {
     "id": 338105,
@@ -12972,8 +17526,8 @@
       1,
       17
     ],
-    "total_rating": 88.73450672686448,
-    "total_rating_count": 9
+    "total_rating": 88.73453069388297,
+    "total_rating_count": 10
   },
   {
     "id": 339698,
@@ -13236,8 +17790,8 @@
       1,
       38
     ],
-    "total_rating": 81.76584214567023,
-    "total_rating_count": 114
+    "total_rating": 81.76041507125026,
+    "total_rating_count": 115
   },
   {
     "id": 350122,
@@ -13367,8 +17921,8 @@
     "themes": [
       32
     ],
-    "total_rating": 66.28609084791789,
-    "total_rating_count": 26
+    "total_rating": 66.19569312160525,
+    "total_rating_count": 27
   },
   {
     "id": 353901,
@@ -13414,8 +17968,8 @@
     "themes": [
       32
     ],
-    "total_rating": 77.78571428571428,
-    "total_rating_count": 8
+    "total_rating": 73.9,
+    "total_rating_count": 9
   },
   {
     "id": 362063,
@@ -13693,6 +18247,8 @@
       1,
       27,
       40
-    ]
+    ],
+    "total_rating": 74.0,
+    "total_rating_count": 5
   }
 ]
