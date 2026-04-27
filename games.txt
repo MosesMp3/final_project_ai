@@ -33,20 +33,13 @@
 18088, Insurgency
 15536, Escape from Tarkov
 362063, Hell Let Loose: Vietnam
-<<<<<<< HEAD
-=======
 7360, Rainbow Six Siege
 250616, Helldivers 2
 185258, Arc Raiders
->>>>>>> 2ed4a9a2acc6a74750b61396e25aa80fb8d0aa6f
 
 #Social Simulation
 109462, Animal Crossing
 3212, The Sims 4
-<<<<<<< HEAD
-17000, Stardew Valley
-198506, Disney Dreamlight Valley
-=======
 198506, Disney Dreamlight Valley
 9927, Persona 5
 26602, Metaphor: ReFantazio
@@ -56,17 +49,13 @@
 2993, The Wolf Among Us
 26472, Disco Elysium
 
->>>>>>> 2ed4a9a2acc6a74750b61396e25aa80fb8d0aa6f
 
 #Hero Shooters
 294041, Marvel Rivals
 125174, Overwatch
 891, Team Fortress 2
 11544, Paladins
-<<<<<<< HEAD
-=======
 250632, Concord
->>>>>>> 2ed4a9a2acc6a74750b61396e25aa80fb8d0aa6f
 
 #MOBAs
 115, League of Legends
@@ -75,13 +64,10 @@
 141479, Genesis
 282566, Smite 2
 255078, Supervive
-<<<<<<< HEAD
-=======
 2963, Dota 2
 135381, Pokemon Unite
 7313, Heroes of the Storm
 135842, Eternal Return
->>>>>>> 2ed4a9a2acc6a74750b61396e25aa80fb8d0aa6f
 
 #Auto Battler
 120176, Teamfight Tactics
@@ -106,11 +92,6 @@
 #TBS (Turn Based Strategy) + Exploration
 7615, Might & Magic Heroes VII
 164287, Erannorth Chronicles
-<<<<<<< HEAD
-119171, Baldur's gate 3
-305152, Clair Obscur: Expedition 33
-165347, Marvel Midnight Suns
-=======
 119171, Baldur's Gate 3
 305152, Clair Obscur: Expedition 33
 165347, Marvel Midnight Suns
@@ -125,14 +106,11 @@
 125692, Shadow Empire
 252647, Persona 3 Reload
 114283, Persona 5 Royal
->>>>>>> 2ed4a9a2acc6a74750b61396e25aa80fb8d0aa6f
 
 #Gacha
 119277, Genshin Impact (ARPG)
 194106, Limbus Company
 132648, CounterSide
-<<<<<<< HEAD
-=======
 123395, Arknights
 196549, Brown Dust 2
 350249, Chaos Zero Nightmare
@@ -142,7 +120,6 @@
 132185, Punishing Gray Raven
 188383, Reverse 1999
 200551, Zenless Zone Zero
->>>>>>> 2ed4a9a2acc6a74750b61396e25aa80fb8d0aa6f
 
 #Battle-Royale
 207939, Naraka Bladepoint
@@ -150,11 +127,8 @@
 114795, Apex Legends
 27789, PUBG Battlegrounds
 87622, Free Fire
-<<<<<<< HEAD
-=======
 217815, Call of Duty: Warzone
 214417, The Finals
->>>>>>> 2ed4a9a2acc6a74750b61396e25aa80fb8d0aa6f
 
 #MMORPG
 123, World of Warcraft
@@ -163,23 +137,17 @@
 6292, BDO Black Desert Online
 26128, Lost Ark
 1081, The Elder Scrolls Online
-<<<<<<< HEAD
-=======
 2584, Eve Online
 9804, MapleStory
->>>>>>> 2ed4a9a2acc6a74750b61396e25aa80fb8d0aa6f
 
 #Roguelike
 331608, Knightica
 28512, Risk of Rain 2 #co-op
 226601, The Last Flame
 296831, Slay the Spire 2 #co-op
-<<<<<<< HEAD
-=======
 327405, Megabonk
 199116, Brotato
 217311, For the King II
->>>>>>> 2ed4a9a2acc6a74750b61396e25aa80fb8d0aa6f
 
 #Co-op // Party-Style
 135915, Overcooked! All You Can Eat
@@ -187,8 +155,6 @@
 19083, Drawful 2
 198560, Jackbox Party Pack 9
 111469, Among Us
-<<<<<<< HEAD
-=======
 212089, Lethal Company
 332780, R.E.P.O
 349524, PEAK
@@ -200,7 +166,6 @@
 387070, Super Battle Golf
 105322, Pummel Party
 
->>>>>>> 2ed4a9a2acc6a74750b61396e25aa80fb8d0aa6f
 
 #Survival Horror
 132181, Resident Evil 4
@@ -213,13 +178,6 @@
 #Survival Horror Multiplayer
 339698, Dead By Daylight
 222341, Silent Hill 2
-<<<<<<< HEAD
-
-#Farmer Sims
-17000, Stardew Valley
-
-#you can also add notes to format genre
-=======
 132516, Phasmophobia
 127165, The Outlast Trials
 127346, Sons of the Forest
@@ -355,4 +313,3 @@
 #you can also add notes to format genre
 
 
->>>>>>> 2ed4a9a2acc6a74750b61396e25aa80fb8d0aa6f
