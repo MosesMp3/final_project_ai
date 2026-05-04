@@ -198,6 +198,7 @@
     <script>
         async function getRecommendations() {
             const game = document.getElementById("gameInput").value.trim()
+            const game2 = document.getElementById("gameInput2").value.trim()
             const traits = document.getElementById("traitsInput").value.trim()
             const k = document.getElementById("kSelect").value
             const useLLM = document.getElementById("useLLM").checked
@@ -212,13 +213,7 @@
                 const resp = await fetch("/recommend", {
                     method: "POST",
                     headers: { "Content-Type": "application/json" },
-                    body: JSON.stringify({
-                        game,
-                        game2: document.getElementById("gameInput2").value.trim(),
-                        traits,
-                        k,
-                        use_llm: useLLM
-                    })
+                    body: JSON.stringify({ game, game2, traits, k, use_llm: useLLM })
                 })
 
                 const data = await resp.json()
@@ -236,29 +231,31 @@
                 const recList = document.getElementById("recList")
                 recList.innerHTML = ""
 
+                // show game cards
                 // parse explanation into per-game chunks
                 let explanations = {}
                 if (data.explanation) {
                     const lines = data.explanation.split('\n').filter(l => l.trim())
                     data.recommendations.forEach(r => {
                         const match = lines.find(l => l.toLowerCase().includes(r.name.toLowerCase()))
-                        if (match) explanations[r.name] = match.replace(/^[-•\d.]\s*/, '').trim()
+                        if (match) explanations[r.name] = match.replace(/^[-•*\d.]\s*/, '').trim()
                     })
                 }
 
+                // show game cards with per-game explanations
                 data.recommendations.forEach(r => {
                     const exp = explanations[r.name] || ''
                     recList.innerHTML += `
-                        <div class="rec-item">
-                            <div class="rec-header">
-                                <div>
-                                    <div class="rec-name">${r.name}</div>
-                                    <div class="rec-score">Similarity: ${r.similarity}</div>
-                                </div>
-                                <div class="rec-label">${r.label}</div>
-                            </div>
-                            ${exp ? `<div class="rec-explanation">${exp}</div>` : ''}
-                        </div>`
+        <div class="rec-item">
+            <div class="rec-header">
+                <div>
+                    <div class="rec-name">${r.name}</div>
+                    <div class="rec-score">Similarity: ${r.similarity}</div>
+                </div>
+                <div class="rec-label">${r.label}</div>
+            </div>
+            ${exp ? `<div class="rec-explanation">${exp}</div>` : ''}
+        </div>`
                 })
 
                 document.getElementById("results").style.display = "block"

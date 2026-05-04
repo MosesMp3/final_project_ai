@@ -109,8 +109,8 @@ def get_recommendations():
         })
 
     explanation = None
-    if use_llm and traits:
-        explanation = get_llm_explanation(matched_name, traits, recs)
+    if use_llm:
+       explanation = get_llm_explanation(matched_name, traits or "general similarity", recs)
 
     return jsonify({
         "input_game": matched_name,
